@@ -1,0 +1,208 @@
+"Date","Time","Round","Venue","Home.Team","Away.Team","Home.Points","Away.Points"
+2018-03-22,"19:25","Round 1"," MCG","Richmond","Carlton",121,95
+2018-03-23,"19:50","Round 1"," Marvel Stadium","Essendon","Adelaide",99,87
+2018-03-24,"15:35","Round 1"," Marvel Stadium","St Kilda","Brisbane",107,82
+2018-03-24,"16:05","Round 1"," Adelaide Oval","Port Adelaide","Fremantle",110,60
+2018-03-24,"18:25","Round 1"," Cazaly's Stadium","Gold Coast","North Melbourne",55,39
+2018-03-24,"19:25","Round 1"," MCG","Hawthorn","Collingwood",101,67
+2018-03-25,"13:10","Round 1"," Manuka Oval","GWS","Western Bulldogs",133,51
+2018-03-25,"15:20","Round 1"," MCG","Melbourne","Geelong",94,97
+2018-03-25,"16:20","Round 1"," Optus Stadium","West Coast","Sydney",86,115
+2018-03-29,"19:20","Round 2"," Adelaide Oval","Adelaide","Richmond",118,82
+2018-03-30,"16:20","Round 2"," Marvel Stadium","North Melbourne","St Kilda",95,43
+2018-03-31,"13:45","Round 2"," Marvel Stadium","Carlton","Gold Coast",67,101
+2018-03-31,"16:35","Round 2"," MCG","Collingwood","GWS",79,95
+2018-03-31,"17:10","Round 2"," Optus Stadium","Fremantle","Essendon",106,90
+2018-03-31,"18:25","Round 2"," Gabba","Brisbane","Melbourne",74,100
+2018-04-01,"15:20","Round 2"," Marvel Stadium","Western Bulldogs","West Coast",70,121
+2018-04-01,"16:40","Round 2"," SCG","Sydney","Port Adelaide",71,94
+2018-04-02,"15:20","Round 2"," MCG","Geelong","Hawthorn",117,118
+2018-04-06,"19:50","Round 3"," MCG","Carlton","Collingwood",76,100
+2018-04-07,"13:15","Round 3"," Adelaide Oval","Port Adelaide","Brisbane",97,92
+2018-04-07,"14:10","Round 3"," MCG","Melbourne","North Melbourne",123,86
+2018-04-07,"14:35","Round 3"," Optus Stadium","Gold Coast","Fremantle",68,96
+2018-04-07,"19:25","Round 3"," SCG","Sydney","GWS",103,87
+2018-04-07,"19:25","Round 3"," Marvel Stadium","St Kilda","Adelaide",55,104
+2018-04-08,"13:10","Round 3"," MCG","Richmond","Hawthorn",102,89
+2018-04-08,"14:40","Round 3"," Optus Stadium","West Coast","Geelong",95,80
+2018-04-08,"15:20","Round 3"," Marvel Stadium","Western Bulldogs","Essendon",104,83
+2018-04-13,"19:20","Round 4"," Adelaide Oval","Adelaide","Collingwood",58,106
+2018-04-14,"13:45","Round 4"," Manuka Oval","GWS","Fremantle",82,51
+2018-04-14,"14:10","Round 4"," MCG","Richmond","Brisbane",110,17
+2018-04-14,"16:35","Round 4"," Marvel Stadium","Western Bulldogs","Sydney",79,86
+2018-04-14,"18:10","Round 4"," Optus Stadium","West Coast","Gold Coast",139,59
+2018-04-14,"19:25","Round 4"," Ninja Stadium","North Melbourne","Carlton",116,30
+2018-04-15,"13:10","Round 4"," Marvel Stadium","Essendon","Port Adelaide",106,84
+2018-04-15,"15:20","Round 4"," MCG","Hawthorn","Melbourne",115,48
+2018-04-15,"16:40","Round 4"," GMHBA Stadium","Geelong","St Kilda",103,56
+2018-04-20,"19:50","Round 5"," SCG","Sydney","Adelaide",75,85
+2018-04-21,"13:45","Round 5"," Marvel Stadium","St Kilda","GWS",73,73
+2018-04-21,"16:35","Round 5"," MCG","Carlton","West Coast",69,79
+2018-04-21,"18:15","Round 5"," Optus Stadium","Fremantle","Western Bulldogs",108,54
+2018-04-21,"19:10","Round 5"," Adelaide Oval","Port Adelaide","Geelong",50,84
+2018-04-22,"15:20","Round 5"," Marvel Stadium","North Melbourne","Hawthorn",98,70
+2018-04-22,"16:45","Round 5"," Gabba","Brisbane","Gold Coast",71,76
+2018-04-24,"19:25","Round 5"," MCG","Melbourne","Richmond",56,102
+2018-04-25,"15:20","Round 5"," MCG","Collingwood","Essendon",101,52
+2018-04-27,"19:50","Round 6"," Marvel Stadium","Western Bulldogs","Carlton",80,59
+2018-04-28,"13:45","Round 6"," GMHBA Stadium","Geelong","Sydney",69,86
+2018-04-28,"14:10","Round 6"," Marvel Stadium","North Melbourne","Port Adelaide",69,102
+2018-04-28,"16:35","Round 6"," ENGIE Stadium","GWS","Brisbane",77,43
+2018-04-28,"19:10","Round 6"," Adelaide Oval","Adelaide","Gold Coast",110,62
+2018-04-28,"19:25","Round 6"," UTAS Stadium","Hawthorn","St Kilda",89,54
+2018-04-29,"13:10","Round 6"," Marvel Stadium","Essendon","Melbourne",72,108
+2018-04-29,"14:40","Round 6"," Optus Stadium","Fremantle","West Coast",81,89
+2018-04-29,"15:20","Round 6"," MCG","Collingwood","Richmond",70,113
+2018-05-04,"19:50","Round 7"," GMHBA Stadium","Geelong","GWS",93,32
+2018-05-05,"13:45","Round 7"," Mars Stadium","Western Bulldogs","Gold Coast",81,72
+2018-05-05,"14:10","Round 7"," MCG","Essendon","Hawthorn",67,90
+2018-05-05,"14:35","Round 7"," Optus Stadium","West Coast","Port Adelaide",102,60
+2018-05-05,"19:10","Round 7"," Adelaide Oval","Adelaide","Carlton",125,70
+2018-05-05,"19:25","Round 7"," SCG","Sydney","North Melbourne",66,68
+2018-05-06,"13:10","Round 7"," MCG","Richmond","Fremantle",110,33
+2018-05-06,"15:20","Round 7"," Marvel Stadium","St Kilda","Melbourne",67,106
+2018-05-06,"16:40","Round 7"," Gabba","Brisbane","Collingwood",114,121
+2018-05-11,"19:50","Round 8"," MCG","Hawthorn","Sydney",71,79
+2018-05-12,"13:45","Round 8"," ENGIE Stadium","GWS","West Coast",61,86
+2018-05-12,"14:10","Round 8"," MCG","Carlton","Essendon",91,78
+2018-05-12,"16:35","Round 8"," Gabba","Gold Coast","Melbourne",77,146
+2018-05-12,"16:40","Round 8"," Adelaide Oval","Port Adelaide","Adelaide",95,90
+2018-05-12,"18:10","Round 8"," Optus Stadium","Fremantle","St Kilda",89,59
+2018-05-12,"19:25","Round 8"," Marvel Stadium","Western Bulldogs","Brisbane",107,93
+2018-05-13,"13:10","Round 8"," Marvel Stadium","North Melbourne","Richmond",72,82
+2018-05-13,"15:20","Round 8"," MCG","Collingwood","Geelong",45,66
+2018-05-18,"19:20","Round 9"," Adelaide Oval","Adelaide","Western Bulldogs",63,26
+2018-05-19,"13:15","Round 9"," Jiangwan Stadium","Gold Coast","Port Adelaide",42,82
+2018-05-19,"13:45","Round 9"," Ninja Stadium","North Melbourne","GWS",112,69
+2018-05-19,"16:35","Round 9"," MCG","Essendon","Geelong",84,50
+2018-05-19,"19:25","Round 9"," SCG","Sydney","Fremantle",111,52
+2018-05-19,"19:25","Round 9"," Marvel Stadium","St Kilda","Collingwood",72,100
+2018-05-20,"13:10","Round 9"," MCG","Carlton","Melbourne",50,159
+2018-05-20,"14:40","Round 9"," Optus Stadium","West Coast","Richmond",130,83
+2018-05-20,"15:20","Round 9"," Gabba","Brisbane","Hawthorn",129,73
+2018-05-25,"19:50","Round 10"," Marvel Stadium","Collingwood","Western Bulldogs",90,55
+2018-05-26,"13:45","Round 10"," MCG","Richmond","St Kilda",105,77
+2018-05-26,"16:35","Round 10"," Gabba","Brisbane","Sydney",49,67
+2018-05-26,"19:25","Round 10"," ENGIE Stadium","GWS","Essendon",60,95
+2018-05-26,"19:25","Round 10"," GMHBA Stadium","Geelong","Carlton",73,45
+2018-05-27,"13:10","Round 10"," Marvel Stadium","Hawthorn","West Coast",60,75
+2018-05-27,"14:40","Round 10"," Optus Stadium","Fremantle","North Melbourne",58,86
+2018-05-27,"14:50","Round 10"," TIO Traeger Park","Melbourne","Adelaide",146,55
+2018-06-01,"19:50","Round 11"," SCG","Sydney","Carlton",91,61
+2018-06-02,"13:45","Round 11"," Marvel Stadium","Western Bulldogs","Melbourne",51,100
+2018-06-02,"14:10","Round 11"," UTAS Stadium","Hawthorn","Port Adelaide",64,61
+2018-06-02,"16:35","Round 11"," People First Stadium","Gold Coast","Geelong",36,121
+2018-06-02,"18:10","Round 11"," Optus Stadium","West Coast","St Kilda",101,88
+2018-06-02,"19:25","Round 11"," MCG","Essendon","Richmond",43,114
+2018-06-03,"13:10","Round 11"," Marvel Stadium","North Melbourne","Brisbane",141,87
+2018-06-03,"15:20","Round 11"," MCG","Collingwood","Fremantle",138,77
+2018-06-03,"16:10","Round 11"," Adelaide Oval","Adelaide","GWS",81,97
+2018-06-08,"19:20","Round 12"," Adelaide Oval","Port Adelaide","Richmond",72,58
+2018-06-09,"13:45","Round 12"," GMHBA Stadium","Geelong","North Melbourne",96,59
+2018-06-09,"16:35","Round 12"," ENGIE Stadium","GWS","Gold Coast",134,26
+2018-06-09,"19:25","Round 12"," Marvel Stadium","St Kilda","Sydney",55,126
+2018-06-10,"13:10","Round 12"," Gabba","Brisbane","Essendon",62,84
+2018-06-10,"14:40","Round 12"," Optus Stadium","Fremantle","Adelaide",71,68
+2018-06-11,"15:20","Round 12"," MCG","Melbourne","Collingwood",91,133
+2018-06-14,"19:20","Round 13"," Adelaide Oval","Port Adelaide","Western Bulldogs",132,75
+2018-06-15,"19:50","Round 13"," SCG","Sydney","West Coast",72,57
+2018-06-16,"13:45","Round 13"," Marvel Stadium","Carlton","Fremantle",46,103
+2018-06-16,"16:35","Round 13"," People First Stadium","Gold Coast","St Kilda",78,80
+2018-06-16,"19:25","Round 13"," MCG","Hawthorn","Adelaide",88,32
+2018-06-17,"15:20","Round 13"," MCG","Geelong","Richmond",65,83
+2018-06-21,"18:10","Round 14"," Optus Stadium","West Coast","Essendon",52,80
+2018-06-22,"19:20","Round 14"," Adelaide Oval","Port Adelaide","Melbourne",75,65
+2018-06-23,"13:45","Round 14"," UTAS Stadium","Hawthorn","Gold Coast",96,43
+2018-06-23,"16:35","Round 14"," Gabba","Brisbane","GWS",82,109
+2018-06-23,"19:25","Round 14"," Marvel Stadium","Western Bulldogs","North Melbourne",75,77
+2018-06-24,"15:20","Round 14"," MCG","Collingwood","Carlton",79,59
+2018-06-28,"19:20","Round 15"," Marvel Stadium","Richmond","Sydney",93,67
+2018-06-29,"19:50","Round 15"," Marvel Stadium","Western Bulldogs","Geelong",103,101
+2018-06-30,"13:45","Round 15"," MCG","Carlton","Port Adelaide",69,90
+2018-06-30,"16:05","Round 15"," Adelaide Oval","Adelaide","West Coast",88,78
+2018-06-30,"19:25","Round 15"," ENGIE Stadium","GWS","Hawthorn",95,84
+2018-06-30,"19:25","Round 15"," People First Stadium","Gold Coast","Collingwood",60,99
+2018-07-01,"13:10","Round 15"," MCG","Melbourne","St Kilda",117,119
+2018-07-01,"14:40","Round 15"," Optus Stadium","Fremantle","Brisbane",64,119
+2018-07-01,"15:20","Round 15"," Marvel Stadium","Essendon","North Melbourne",125,108
+2018-07-05,"19:20","Round 16"," SCG","Sydney","Geelong",59,71
+2018-07-06,"19:50","Round 16"," MCG","Richmond","Adelaide",103,56
+2018-07-07,"13:45","Round 16"," Gabba","Brisbane","Carlton",120,55
+2018-07-07,"16:05","Round 16"," Adelaide Oval","Port Adelaide","St Kilda",86,50
+2018-07-07,"19:10","Round 16"," TIO Stadium","Melbourne","Fremantle",102,48
+2018-07-07,"19:25","Round 16"," Marvel Stadium","Western Bulldogs","Hawthorn",59,122
+2018-07-08,"13:10","Round 16"," Marvel Stadium","North Melbourne","Gold Coast",95,58
+2018-07-08,"14:40","Round 16"," Optus Stadium","West Coast","GWS",86,75
+2018-07-08,"15:20","Round 16"," MCG","Essendon","Collingwood",62,78
+2018-07-12,"19:20","Round 17"," Adelaide Oval","Adelaide","Geelong",112,97
+2018-07-13,"19:50","Round 17"," Marvel Stadium","St Kilda","Carlton",116,52
+2018-07-14,"13:45","Round 17"," UTAS Stadium","Hawthorn","Brisbane",65,98
+2018-07-14,"16:35","Round 17"," MCG","Melbourne","Western Bulldogs",119,69
+2018-07-14,"19:25","Round 17"," ENGIE Stadium","GWS","Richmond",79,77
+2018-07-14,"19:25","Round 17"," People First Stadium","Gold Coast","Essendon",51,95
+2018-07-15,"13:10","Round 17"," MCG","Collingwood","West Coast",67,102
+2018-07-15,"14:40","Round 17"," Optus Stadium","Fremantle","Port Adelaide",59,50
+2018-07-15,"15:20","Round 17"," Marvel Stadium","North Melbourne","Sydney",98,104
+2018-07-20,"19:50","Round 18"," Marvel Stadium","St Kilda","Richmond",57,111
+2018-07-21,"13:45","Round 18"," MCG","Collingwood","North Melbourne",130,64
+2018-07-21,"14:10","Round 18"," SCG","Sydney","Gold Coast",64,88
+2018-07-21,"16:35","Round 18"," Marvel Stadium","Essendon","Fremantle",99,70
+2018-07-21,"19:25","Round 18"," GMHBA Stadium","Geelong","Melbourne",100,98
+2018-07-21,"19:25","Round 18"," Gabba","Brisbane","Adelaide",88,93
+2018-07-22,"13:10","Round 18"," Marvel Stadium","Carlton","Hawthorn",52,124
+2018-07-22,"13:20","Round 18"," Optus Stadium","West Coast","Western Bulldogs",100,46
+2018-07-22,"16:10","Round 18"," Adelaide Oval","Port Adelaide","GWS",58,80
+2018-07-27,"19:50","Round 19"," Marvel Stadium","Essendon","Sydney",109,66
+2018-07-28,"13:45","Round 19"," MCG","Richmond","Collingwood",105,77
+2018-07-28,"14:10","Round 19"," GMHBA Stadium","Geelong","Brisbane",120,78
+2018-07-28,"16:35","Round 19"," ENGIE Stadium","GWS","St Kilda",86,61
+2018-07-28,"19:10","Round 19"," Adelaide Oval","Adelaide","Melbourne",77,90
+2018-07-28,"19:25","Round 19"," People First Stadium","Gold Coast","Carlton",44,79
+2018-07-29,"13:10","Round 19"," Ninja Stadium","North Melbourne","West Coast",81,41
+2018-07-29,"14:40","Round 19"," Optus Stadium","Fremantle","Hawthorn",53,112
+2018-07-29,"15:20","Round 19"," Mars Stadium","Western Bulldogs","Port Adelaide",34,78
+2018-08-03,"19:50","Round 20"," MCG","Richmond","Geelong",85,82
+2018-08-04,"13:45","Round 20"," MCG","Hawthorn","Essendon",107,103
+2018-08-04,"14:10","Round 20"," Gabba","Brisbane","North Melbourne",104,107
+2018-08-04,"16:05","Round 20"," Adelaide Oval","Adelaide","Port Adelaide",96,93
+2018-08-04,"19:25","Round 20"," Marvel Stadium","St Kilda","Western Bulldogs",68,103
+2018-08-04,"19:25","Round 20"," SCG","Sydney","Collingwood",73,71
+2018-08-05,"13:10","Round 20"," Marvel Stadium","Carlton","GWS",46,151
+2018-08-05,"14:40","Round 20"," Optus Stadium","West Coast","Fremantle",142,84
+2018-08-05,"15:20","Round 20"," MCG","Melbourne","Gold Coast",143,47
+2018-08-10,"19:50","Round 21"," Marvel Stadium","Essendon","St Kilda",122,79
+2018-08-11,"13:45","Round 21"," MCG","Hawthorn","Geelong",71,60
+2018-08-11,"14:10","Round 21"," People First Stadium","Gold Coast","Richmond",51,125
+2018-08-11,"16:05","Round 21"," Adelaide Oval","Port Adelaide","West Coast",58,62
+2018-08-11,"19:25","Round 21"," Marvel Stadium","Collingwood","Brisbane",104,73
+2018-08-11,"19:25","Round 21"," Manuka Oval","GWS","Adelaide",106,92
+2018-08-12,"13:10","Round 21"," Marvel Stadium","North Melbourne","Western Bulldogs",85,92
+2018-08-12,"14:40","Round 21"," Optus Stadium","Fremantle","Carlton",101,72
+2018-08-12,"15:20","Round 21"," MCG","Melbourne","Sydney",78,87
+2018-08-17,"19:50","Round 22"," MCG","Richmond","Essendon",81,73
+2018-08-18,"13:45","Round 22"," MCG","Collingwood","Port Adelaide",115,64
+2018-08-18,"14:10","Round 22"," GMHBA Stadium","Geelong","Fremantle",158,25
+2018-08-18,"16:35","Round 22"," ENGIE Stadium","GWS","Sydney",60,80
+2018-08-18,"19:25","Round 22"," Marvel Stadium","St Kilda","Hawthorn",76,80
+2018-08-18,"19:25","Round 22"," People First Stadium","Gold Coast","Brisbane",74,78
+2018-08-19,"13:10","Round 22"," Marvel Stadium","Carlton","Western Bulldogs",49,66
+2018-08-19,"13:20","Round 22"," Optus Stadium","West Coast","Melbourne",91,108
+2018-08-19,"16:10","Round 22"," Adelaide Oval","Adelaide","North Melbourne",86,77
+2018-08-24,"19:20","Round 23"," Adelaide Oval","Port Adelaide","Essendon",89,111
+2018-08-25,"13:45","Round 23"," GMHBA Stadium","Geelong","Gold Coast",142,40
+2018-08-25,"14:10","Round 23"," MCG","Richmond","Western Bulldogs",98,95
+2018-08-25,"14:35","Round 23"," Optus Stadium","Fremantle","Collingwood",67,76
+2018-08-25,"19:25","Round 23"," SCG","Sydney","Hawthorn",74,83
+2018-08-25,"19:25","Round 23"," Marvel Stadium","Carlton","Adelaide",61,165
+2018-08-26,"13:10","Round 23"," Gabba","Brisbane","West Coast",72,98
+2018-08-26,"15:20","Round 23"," MCG","Melbourne","GWS",102,57
+2018-08-26,"16:40","Round 23"," Marvel Stadium","St Kilda","North Melbourne",94,117
+2018-09-06,"19:20","Qualifying Final"," MCG","Richmond","Hawthorn",95,64
+2018-09-07,"19:50","Elimination Final"," MCG","Melbourne","Geelong",75,46
+2018-09-08,"16:20","Elimination Final"," SCG","Sydney","GWS",30,79
+2018-09-08,"18:10","Qualifying Final"," Optus Stadium","West Coast","Collingwood",86,70
+2018-09-14,"19:50","Semi Final"," MCG","Hawthorn","Melbourne",71,104
+2018-09-15,"19:25","Semi Final"," MCG","Collingwood","GWS",69,59
+2018-09-21,"19:50","Preliminary Final"," MCG","Richmond","Collingwood",58,97
+2018-09-22,"13:20","Preliminary Final"," Optus Stadium","West Coast","Melbourne",121,55
+2018-09-29,"14:30","Grand Final"," MCG","West Coast","Collingwood",79,74

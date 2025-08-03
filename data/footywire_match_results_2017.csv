@@ -1,0 +1,208 @@
+"Date","Time","Round","Venue","Home.Team","Away.Team","Home.Points","Away.Points"
+2017-03-23,"19:20","Round 1"," MCG","Carlton","Richmond",89,132
+2017-03-24,"19:50","Round 1"," MCG","Collingwood","Western Bulldogs",86,100
+2017-03-25,"16:35","Round 1"," SCG","Sydney","Port Adelaide",82,110
+2017-03-25,"16:35","Round 1"," Marvel Stadium","St Kilda","Melbourne",90,120
+2017-03-25,"19:05","Round 1"," People First Stadium","Gold Coast","Brisbane",96,98
+2017-03-25,"19:25","Round 1"," MCG","Essendon","Hawthorn",116,91
+2017-03-26,"13:10","Round 1"," Marvel Stadium","North Melbourne","West Coast",93,136
+2017-03-26,"14:50","Round 1"," Adelaide Oval","Adelaide","GWS",147,91
+2017-03-26,"16:40","Round 1"," Domain Stadium","Fremantle","Geelong",73,115
+2017-03-30,"19:20","Round 2"," MCG","Richmond","Collingwood",99,80
+2017-03-31,"19:50","Round 2"," Marvel Stadium","Western Bulldogs","Sydney",110,87
+2017-04-01,"13:45","Round 2"," MCG","Hawthorn","Adelaide",89,113
+2017-04-01,"16:35","Round 2"," ENGIE Stadium","GWS","Gold Coast",160,58
+2017-04-01,"16:40","Round 2"," Domain Stadium","West Coast","St Kilda",116,97
+2017-04-01,"18:25","Round 2"," Gabba","Brisbane","Essendon",84,111
+2017-04-02,"13:10","Round 2"," Marvel Stadium","Geelong","North Melbourne",112,111
+2017-04-02,"15:20","Round 2"," MCG","Melbourne","Carlton",86,64
+2017-04-02,"16:10","Round 2"," Adelaide Oval","Port Adelaide","Fremantle",145,56
+2017-04-07,"19:50","Round 3"," SCG","Sydney","Collingwood",79,80
+2017-04-08,"13:45","Round 3"," Ninja Stadium","North Melbourne","GWS",67,109
+2017-04-08,"14:10","Round 3"," MCG","Richmond","West Coast",76,65
+2017-04-08,"16:35","Round 3"," Marvel Stadium","Geelong","Melbourne",126,97
+2017-04-08,"17:40","Round 3"," Domain Stadium","Fremantle","Western Bulldogs",89,73
+2017-04-08,"19:10","Round 3"," Adelaide Oval","Port Adelaide","Adelaide",83,100
+2017-04-09,"13:10","Round 3"," Marvel Stadium","St Kilda","Brisbane",107,76
+2017-04-09,"15:20","Round 3"," MCG","Carlton","Essendon",57,42
+2017-04-09,"16:40","Round 3"," People First Stadium","Gold Coast","Hawthorn",139,53
+2017-04-13,"18:10","Round 4"," Domain Stadium","West Coast","Sydney",91,65
+2017-04-14,"16:20","Round 4"," Marvel Stadium","North Melbourne","Western Bulldogs",86,89
+2017-04-15,"13:45","Round 4"," MCG","Melbourne","Fremantle",104,106
+2017-04-15,"16:35","Round 4"," Manuka Oval","GWS","Port Adelaide",112,81
+2017-04-15,"19:10","Round 4"," Adelaide Oval","Adelaide","Essendon",153,88
+2017-04-15,"19:25","Round 4"," Marvel Stadium","Carlton","Gold Coast",82,108
+2017-04-16,"15:20","Round 4"," Marvel Stadium","Collingwood","St Kilda",55,69
+2017-04-16,"16:40","Round 4"," Gabba","Brisbane","Richmond",67,119
+2017-04-17,"15:20","Round 4"," MCG","Hawthorn","Geelong",48,134
+2017-04-21,"19:20","Round 5"," Adelaide Oval","Port Adelaide","Carlton",137,47
+2017-04-22,"13:45","Round 5"," Marvel Stadium","Western Bulldogs","Brisbane",122,90
+2017-04-22,"16:35","Round 5"," People First Stadium","Gold Coast","Adelaide",86,153
+2017-04-22,"17:40","Round 5"," Domain Stadium","Fremantle","North Melbourne",67,62
+2017-04-22,"19:25","Round 5"," SCG","Sydney","GWS",63,105
+2017-04-23,"15:20","Round 5"," Marvel Stadium","St Kilda","Geelong",88,126
+2017-04-23,"16:40","Round 5"," MCG","Hawthorn","West Coast",125,75
+2017-04-24,"19:25","Round 5"," MCG","Richmond","Melbourne",88,75
+2017-04-25,"15:20","Round 5"," MCG","Essendon","Collingwood",100,82
+2017-04-28,"19:50","Round 6"," Manuka Oval","GWS","Western Bulldogs",75,73
+2017-04-29,"13:45","Round 6"," UTAS Stadium","Hawthorn","St Kilda",55,130
+2017-04-29,"14:10","Round 6"," MCG","Carlton","Sydney",97,78
+2017-04-29,"16:35","Round 6"," Gabba","Brisbane","Port Adelaide",67,150
+2017-04-29,"18:10","Round 6"," Domain Stadium","West Coast","Fremantle",103,62
+2017-04-29,"19:25","Round 6"," Marvel Stadium","North Melbourne","Gold Coast",107,94
+2017-04-30,"13:10","Round 6"," Marvel Stadium","Essendon","Melbourne",74,112
+2017-04-30,"15:20","Round 6"," MCG","Geelong","Collingwood",78,107
+2017-04-30,"16:10","Round 6"," Adelaide Oval","Adelaide","Richmond",140,64
+2017-05-05,"19:50","Round 7"," Marvel Stadium","St Kilda","GWS",108,85
+2017-05-06,"13:45","Round 7"," Ninja Stadium","North Melbourne","Adelaide",145,86
+2017-05-06,"14:10","Round 7"," MCG","Collingwood","Carlton",56,79
+2017-05-06,"16:05","Round 7"," Adelaide Oval","Port Adelaide","West Coast",87,97
+2017-05-06,"19:25","Round 7"," People First Stadium","Gold Coast","Geelong",124,99
+2017-05-06,"19:25","Round 7"," Marvel Stadium","Western Bulldogs","Richmond",80,75
+2017-05-07,"13:10","Round 7"," SCG","Sydney","Brisbane",135,81
+2017-05-07,"14:40","Round 7"," Domain Stadium","Fremantle","Essendon",116,79
+2017-05-07,"15:20","Round 7"," MCG","Melbourne","Hawthorn",91,94
+2017-05-12,"18:10","Round 8"," Domain Stadium","West Coast","Western Bulldogs",69,61
+2017-05-13,"13:45","Round 8"," UTAS Stadium","Hawthorn","Brisbane",113,75
+2017-05-13,"14:10","Round 8"," Marvel Stadium","St Kilda","Carlton",85,66
+2017-05-13,"16:35","Round 8"," ENGIE Stadium","GWS","Collingwood",102,99
+2017-05-13,"19:10","Round 8"," Adelaide Oval","Adelaide","Melbourne",66,107
+2017-05-13,"19:25","Round 8"," MCG","Essendon","Geelong",110,93
+2017-05-14,"13:10","Round 8"," MCG","Richmond","Fremantle",70,72
+2017-05-14,"13:15","Round 8"," Jiangwan Stadium","Gold Coast","Port Adelaide",38,110
+2017-05-14,"16:40","Round 8"," Marvel Stadium","North Melbourne","Sydney",78,120
+2017-05-19,"19:50","Round 9"," GMHBA Stadium","Geelong","Western Bulldogs",104,81
+2017-05-20,"13:45","Round 9"," Marvel Stadium","St Kilda","Sydney",68,118
+2017-05-20,"16:35","Round 9"," ENGIE Stadium","GWS","Richmond",78,75
+2017-05-20,"19:25","Round 9"," MCG","Collingwood","Hawthorn",90,72
+2017-05-20,"19:25","Round 9"," Gabba","Brisbane","Adelaide",60,140
+2017-05-21,"13:10","Round 9"," Marvel Stadium","Essendon","West Coast",125,64
+2017-05-21,"14:40","Round 9"," Domain Stadium","Fremantle","Carlton",86,51
+2017-05-21,"15:20","Round 9"," MCG","Melbourne","North Melbourne",90,104
+2017-05-25,"19:20","Round 10"," GMHBA Stadium","Geelong","Port Adelaide",81,79
+2017-05-26,"19:50","Round 10"," SCG","Sydney","Hawthorn",75,81
+2017-05-27,"13:45","Round 10"," Marvel Stadium","Western Bulldogs","St Kilda",90,50
+2017-05-27,"16:05","Round 10"," TIO Traeger Park","Melbourne","Gold Coast",122,87
+2017-05-27,"19:10","Round 10"," Adelaide Oval","Adelaide","Fremantle",143,43
+2017-05-27,"19:25","Round 10"," MCG","Richmond","Essendon",81,66
+2017-05-28,"13:10","Round 10"," MCG","Collingwood","Brisbane",129,84
+2017-05-28,"14:40","Round 10"," Domain Stadium","West Coast","GWS",90,98
+2017-05-28,"15:20","Round 10"," Marvel Stadium","Carlton","North Melbourne",96,113
+2017-06-01,"19:20","Round 11"," Adelaide Oval","Port Adelaide","Hawthorn",98,47
+2017-06-02,"19:50","Round 11"," GMHBA Stadium","Geelong","Adelaide",96,74
+2017-06-03,"13:45","Round 11"," People First Stadium","Gold Coast","West Coast",80,77
+2017-06-03,"16:35","Round 11"," ENGIE Stadium","GWS","Essendon",117,101
+2017-06-03,"19:25","Round 11"," Marvel Stadium","North Melbourne","Richmond",66,101
+2017-06-04,"14:40","Round 11"," Domain Stadium","Fremantle","Collingwood",85,105
+2017-06-08,"19:20","Round 12"," SCG","Sydney","Western Bulldogs",88,42
+2017-06-09,"19:20","Round 12"," Adelaide Oval","Adelaide","St Kilda",111,54
+2017-06-10,"13:45","Round 12"," MCG","Hawthorn","Gold Coast",79,95
+2017-06-10,"16:35","Round 12"," Gabba","Brisbane","Fremantle",121,64
+2017-06-10,"19:25","Round 12"," Marvel Stadium","Essendon","Port Adelaide",131,61
+2017-06-11,"15:20","Round 12"," Marvel Stadium","Carlton","GWS",71,70
+2017-06-12,"15:20","Round 12"," MCG","Melbourne","Collingwood",104,100
+2017-06-15,"18:10","Round 13"," Domain Stadium","West Coast","Geelong",83,70
+2017-06-16,"19:50","Round 13"," Marvel Stadium","North Melbourne","St Kilda",72,89
+2017-06-17,"13:45","Round 13"," MCG","Richmond","Sydney",71,80
+2017-06-17,"16:05","Round 13"," Adelaide Oval","Port Adelaide","Brisbane",121,81
+2017-06-17,"19:25","Round 13"," People First Stadium","Gold Coast","Carlton",73,83
+2017-06-18,"15:20","Round 13"," Marvel Stadium","Western Bulldogs","Melbourne",56,113
+2017-06-22,"19:20","Round 14"," Adelaide Oval","Adelaide","Hawthorn",82,96
+2017-06-23,"19:50","Round 14"," SCG","Sydney","Essendon",86,85
+2017-06-24,"13:45","Round 14"," MCG","Collingwood","Port Adelaide",62,93
+2017-06-24,"16:35","Round 14"," Gabba","Brisbane","GWS",86,146
+2017-06-24,"17:40","Round 14"," Domain Stadium","West Coast","Melbourne",96,99
+2017-06-24,"19:25","Round 14"," Marvel Stadium","Western Bulldogs","North Melbourne",107,106
+2017-06-25,"13:10","Round 14"," GMHBA Stadium","Geelong","Fremantle",74,72
+2017-06-25,"15:20","Round 14"," MCG","Richmond","Carlton",84,58
+2017-06-25,"16:40","Round 14"," Marvel Stadium","St Kilda","Gold Coast",103,72
+2017-06-30,"19:50","Round 15"," MCG","Melbourne","Sydney",50,85
+2017-07-01,"13:45","Round 15"," Marvel Stadium","Western Bulldogs","West Coast",80,87
+2017-07-01,"14:10","Round 15"," MCG","Carlton","Adelaide",77,89
+2017-07-01,"16:35","Round 15"," People First Stadium","Gold Coast","North Melbourne",118,99
+2017-07-01,"19:10","Round 15"," Adelaide Oval","Port Adelaide","Richmond",63,76
+2017-07-01,"19:25","Round 15"," ENGIE Stadium","GWS","Geelong",68,68
+2017-07-02,"13:10","Round 15"," Marvel Stadium","Essendon","Brisbane",82,90
+2017-07-02,"14:40","Round 15"," Domain Stadium","Fremantle","St Kilda",80,89
+2017-07-02,"15:20","Round 15"," MCG","Hawthorn","Collingwood",118,94
+2017-07-07,"19:20","Round 16"," Adelaide Oval","Adelaide","Western Bulldogs",104,45
+2017-07-08,"13:45","Round 16"," UTAS Stadium","Hawthorn","GWS",97,97
+2017-07-08,"14:10","Round 16"," MCG","Collingwood","Essendon",80,117
+2017-07-08,"16:35","Round 16"," SCG","Sydney","Gold Coast",118,51
+2017-07-08,"19:25","Round 16"," Marvel Stadium","St Kilda","Richmond",138,71
+2017-07-08,"19:25","Round 16"," Gabba","Brisbane","Geelong",78,163
+2017-07-09,"13:10","Round 16"," Marvel Stadium","North Melbourne","Fremantle",82,86
+2017-07-09,"14:40","Round 16"," Domain Stadium","West Coast","Port Adelaide",88,120
+2017-07-09,"15:20","Round 16"," MCG","Carlton","Melbourne",82,90
+2017-07-14,"19:50","Round 17"," Marvel Stadium","St Kilda","Essendon",57,118
+2017-07-15,"13:40","Round 17"," Adelaide Oval","Port Adelaide","North Melbourne",127,57
+2017-07-15,"13:45","Round 17"," MCG","Geelong","Hawthorn",88,85
+2017-07-15,"16:35","Round 17"," People First Stadium","Gold Coast","Collingwood",88,103
+2017-07-15,"19:10","Round 17"," TIO Stadium","Melbourne","Adelaide",70,116
+2017-07-15,"19:25","Round 17"," ENGIE Stadium","GWS","Sydney",83,96
+2017-07-16,"13:10","Round 17"," Marvel Stadium","Richmond","Brisbane",112,81
+2017-07-16,"14:40","Round 17"," Domain Stadium","Fremantle","West Coast",44,74
+2017-07-16,"15:20","Round 17"," MCG","Carlton","Western Bulldogs",62,82
+2017-07-21,"19:20","Round 18"," Adelaide Oval","Adelaide","Geelong",91,70
+2017-07-22,"13:45","Round 18"," Marvel Stadium","Essendon","North Melbourne",132,105
+2017-07-22,"14:10","Round 18"," MCG","Melbourne","Port Adelaide",88,65
+2017-07-22,"16:35","Round 18"," Cazaly's Stadium","Western Bulldogs","Gold Coast",110,56
+2017-07-22,"17:40","Round 18"," Domain Stadium","Fremantle","Hawthorn",48,100
+2017-07-22,"19:25","Round 18"," SCG","Sydney","St Kilda",101,59
+2017-07-23,"13:10","Round 18"," MCG","Richmond","GWS",64,45
+2017-07-23,"15:20","Round 18"," Marvel Stadium","Collingwood","West Coast",93,85
+2017-07-23,"16:40","Round 18"," Gabba","Brisbane","Carlton",112,82
+2017-07-28,"19:50","Round 19"," MCG","Hawthorn","Sydney",72,66
+2017-07-29,"13:45","Round 19"," Ninja Stadium","North Melbourne","Melbourne",76,72
+2017-07-29,"14:10","Round 19"," ENGIE Stadium","GWS","Fremantle",98,86
+2017-07-29,"16:05","Round 19"," Adelaide Oval","Port Adelaide","St Kilda",63,61
+2017-07-29,"19:25","Round 19"," People First Stadium","Gold Coast","Richmond",65,98
+2017-07-29,"19:25","Round 19"," Marvel Stadium","Carlton","Geelong",58,123
+2017-07-30,"13:10","Round 19"," Marvel Stadium","Western Bulldogs","Essendon",127,97
+2017-07-30,"14:40","Round 19"," Domain Stadium","West Coast","Brisbane",113,45
+2017-07-30,"15:20","Round 19"," MCG","Collingwood","Adelaide",103,103
+2017-08-04,"19:50","Round 20"," GMHBA Stadium","Geelong","Sydney",61,107
+2017-08-05,"13:45","Round 20"," Manuka Oval","GWS","Melbourne",97,62
+2017-08-05,"14:10","Round 20"," MCG","Essendon","Carlton",84,76
+2017-08-05,"16:35","Round 20"," Gabba","Brisbane","Western Bulldogs",89,103
+2017-08-05,"17:40","Round 20"," Domain Stadium","Fremantle","Gold Coast",90,67
+2017-08-05,"19:25","Round 20"," Marvel Stadium","North Melbourne","Collingwood",57,111
+2017-08-06,"13:10","Round 20"," Marvel Stadium","St Kilda","West Coast",103,95
+2017-08-06,"15:20","Round 20"," MCG","Richmond","Hawthorn",93,64
+2017-08-06,"16:10","Round 20"," Adelaide Oval","Adelaide","Port Adelaide",130,46
+2017-08-11,"19:50","Round 21"," Marvel Stadium","Western Bulldogs","GWS",57,105
+2017-08-12,"13:45","Round 21"," SCG","Sydney","Fremantle",143,39
+2017-08-12,"14:10","Round 21"," GMHBA Stadium","Geelong","Richmond",80,66
+2017-08-12,"16:35","Round 21"," Gabba","Brisbane","Gold Coast",142,84
+2017-08-12,"17:40","Round 21"," Domain Stadium","West Coast","Carlton",100,83
+2017-08-12,"19:25","Round 21"," Marvel Stadium","Essendon","Adelaide",80,123
+2017-08-13,"13:10","Round 21"," MCG","Melbourne","St Kilda",96,72
+2017-08-13,"15:20","Round 21"," UTAS Stadium","Hawthorn","North Melbourne",116,89
+2017-08-13,"16:10","Round 21"," Adelaide Oval","Port Adelaide","Collingwood",98,71
+2017-08-18,"19:20","Round 22"," Adelaide Oval","Adelaide","Sydney",80,83
+2017-08-19,"13:45","Round 22"," Mars Stadium","Western Bulldogs","Port Adelaide",79,96
+2017-08-19,"14:10","Round 22"," MCG","Collingwood","Geelong",59,70
+2017-08-19,"16:35","Round 22"," ENGIE Stadium","GWS","West Coast",81,60
+2017-08-19,"19:25","Round 22"," People First Stadium","Gold Coast","Essendon",57,90
+2017-08-19,"19:25","Round 22"," Marvel Stadium","Carlton","Hawthorn",77,70
+2017-08-20,"13:10","Round 22"," MCG","Melbourne","Brisbane",104,91
+2017-08-20,"14:40","Round 22"," Domain Stadium","Fremantle","Richmond",51,155
+2017-08-20,"15:20","Round 22"," Marvel Stadium","St Kilda","North Melbourne",127,78
+2017-08-25,"19:50","Round 23"," Marvel Stadium","Hawthorn","Western Bulldogs",99,90
+2017-08-26,"13:45","Round 23"," MCG","Collingwood","Melbourne",99,83
+2017-08-26,"14:10","Round 23"," Gabba","Brisbane","North Melbourne",79,130
+2017-08-26,"16:35","Round 23"," SCG","Sydney","Carlton",138,57
+2017-08-26,"19:10","Round 23"," Adelaide Oval","Port Adelaide","Gold Coast",135,20
+2017-08-26,"19:25","Round 23"," GMHBA Stadium","Geelong","GWS",103,59
+2017-08-27,"13:10","Round 23"," Marvel Stadium","Essendon","Fremantle",107,92
+2017-08-27,"14:40","Round 23"," Domain Stadium","West Coast","Adelaide",100,71
+2017-08-27,"15:20","Round 23"," MCG","Richmond","St Kilda",122,81
+2017-09-07,"19:20","Qualifying Final"," Adelaide Oval","Adelaide","GWS",84,48
+2017-09-08,"19:50","Qualifying Final"," MCG","Geelong","Richmond",40,91
+2017-09-09,"16:20","Elimination Final"," SCG","Sydney","Essendon",121,56
+2017-09-09,"19:20","Elimination Final"," Adelaide Oval","Port Adelaide","West Coast",76,78
+2017-09-15,"19:50","Semi Final"," MCG","Geelong","Sydney",98,39
+2017-09-16,"19:25","Semi Final"," ENGIE Stadium","GWS","West Coast",125,58
+2017-09-22,"19:20","Preliminary Final"," Adelaide Oval","Adelaide","Geelong",136,75
+2017-09-23,"16:45","Preliminary Final"," MCG","Richmond","GWS",103,67
+2017-09-30,"14:30","Grand Final"," MCG","Adelaide","Richmond",60,108
