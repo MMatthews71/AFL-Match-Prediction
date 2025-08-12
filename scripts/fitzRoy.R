@@ -1,22 +1,46 @@
+## Install and load required packages
+if (!require("fitzRoy")) install.packages("fitzRoy", dependencies = TRUE)
+if (!require("dplyr")) install.packages("dplyr", dependencies = TRUE)
+if (!require("rvest")) install.packages("rvest", dependencies = TRUE)
+if (!require("purrr")) install.packages("purrr", dependencies = TRUE)
+
 library(fitzRoy)
 library(dplyr)
-install.packages("devtools")
+library(rvest)
+library(purrr)
 
-devtools::install_github("jimmyday12/fitzRoy") 
-# Get current year (you can also manually set it)
-current_year <- as.numeric(format(Sys.Date(), "%Y"))
+# Check fitzRoy version to confirm compatibility
+packageVersion("fitzRoy")
 
-# Fetch all results for this year
-latest_results <- fetch_results_footywire(season = current_year)
+# Define output directory
+output_directory <- "../data"
+if (!dir.exists(output_directory)) {
+  dir.create(output_directory, recursive = TRUE)
+}
 
-# Find the latest round number
-latest_round <- max(latest_results$Round)
+# Seasons to scrape
+seasons <- 2015:2025
 
-# Filter only newest round
-newest_round_data <- latest_results %>%
-  filter(Round == latest_round)
+# ---------------- PLAYER STATS ----------------
+for (season in seasons) {
+  cat("Scraping player stats for season:", season, "\n")
+  season_stats <- fetch_player_stats_footywire(season = season)
+  cat("Preview of player stats for", season, ":\n")
+  print(head(season_stats))
+  
+  output_file <- file.path(output_directory, paste0("footywire_player_stats_", season, ".csv"))
+  write.csv(season_stats, output_file, row.names = FALSE)
+  cat("Player stats CSV saved to:", output_file, "\n")
+}
 
-# View results
-print(newest_round_data)
-
-
+# ---------------- MATCH RESULTS ----------------
+for (season in seasons) {
+  cat("Scraping match results for season:", season, "\n")
+  match_results <- fetch_results_footywire(season = season)
+  cat("Preview of match results for", season, ":\n")
+  print(head(match_results))
+  
+  output_file <- file.path(output_directory, paste0("footywire_match_results_", season, ".csv"))
+  write.csv(match_results, output_file, row.names = FALSE)
+  cat("Match results CSV saved to:", output_file, "\n")
+}
