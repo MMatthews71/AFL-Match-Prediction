@@ -19,7 +19,7 @@ if (!dir.exists(output_directory)) {
 }
 
 # Seasons to scrape
-seasons <- 2015:2025
+seasons <- 2015
 
 # ---------------- PLAYER STATS ----------------
 for (season in seasons) {
