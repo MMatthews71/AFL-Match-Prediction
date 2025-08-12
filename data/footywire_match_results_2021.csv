@@ -1,0 +1,208 @@
+"Date","Time","Round","Venue","Home.Team","Away.Team","Home.Points","Away.Points"
+2021-03-18,"19:25","Round 1"," MCG","Richmond","Carlton",105,80
+2021-03-19,"19:50","Round 1"," MCG","Collingwood","Western Bulldogs",53,69
+2021-03-20,"13:45","Round 1"," MCG","Melbourne","Fremantle",80,58
+2021-03-20,"16:05","Round 1"," Adelaide Oval","Adelaide","Geelong",103,91
+2021-03-20,"18:45","Round 1"," Gabba","Brisbane","Sydney",94,125
+2021-03-20,"19:25","Round 1"," Marvel Stadium","Essendon","Hawthorn",91,92
+2021-03-21,"13:10","Round 1"," Marvel Stadium","North Melbourne","Port Adelaide",65,117
+2021-03-21,"15:10","Round 1"," Optus Stadium","West Coast","Gold Coast",83,58
+2021-03-21,"15:20","Round 1"," ENGIE Stadium","GWS","St Kilda",78,86
+2021-03-25,"19:20","Round 2"," MCG","Carlton","Collingwood",85,106
+2021-03-26,"19:20","Round 2"," GMHBA Stadium","Geelong","Brisbane",81,80
+2021-03-27,"13:45","Round 2"," SCG","Sydney","Adelaide",121,88
+2021-03-27,"16:05","Round 2"," Adelaide Oval","Port Adelaide","Essendon",119,65
+2021-03-27,"19:10","Round 2"," People First Stadium","Gold Coast","North Melbourne",98,39
+2021-03-27,"19:25","Round 2"," Marvel Stadium","St Kilda","Melbourne",73,91
+2021-03-28,"13:10","Round 2"," MCG","Hawthorn","Richmond",49,78
+2021-03-28,"15:10","Round 2"," Optus Stadium","Fremantle","GWS",87,56
+2021-03-28,"15:20","Round 2"," Marvel Stadium","Western Bulldogs","West Coast",100,93
+2021-04-01,"19:40","Round 3"," Marvel Stadium","Collingwood","Brisbane",72,73
+2021-04-02,"16:20","Round 3"," Marvel Stadium","North Melbourne","Western Bulldogs",39,167
+2021-04-02,"19:20","Round 3"," Adelaide Oval","Adelaide","Gold Coast",95,85
+2021-04-03,"13:45","Round 3"," MCG","Richmond","Sydney",72,117
+2021-04-03,"16:35","Round 3"," Marvel Stadium","Essendon","St Kilda",143,68
+2021-04-03,"17:10","Round 3"," Optus Stadium","West Coast","Port Adelaide",108,71
+2021-04-04,"15:20","Round 3"," Marvel Stadium","Carlton","Fremantle",109,64
+2021-04-04,"18:10","Round 3"," Manuka Oval","GWS","Melbourne",68,102
+2021-04-05,"15:20","Round 3"," MCG","Geelong","Hawthorn",69,64
+2021-04-08,"19:20","Round 4"," SCG","Sydney","Essendon",83,80
+2021-04-09,"19:20","Round 4"," Adelaide Oval","Port Adelaide","Richmond",79,77
+2021-04-10,"13:45","Round 4"," Mars Stadium","Western Bulldogs","Brisbane",73,54
+2021-04-10,"16:35","Round 4"," Marvel Stadium","St Kilda","West Coast",102,82
+2021-04-10,"19:25","Round 4"," MCG","Collingwood","GWS",60,90
+2021-04-10,"19:25","Round 4"," People First Stadium","Gold Coast","Carlton",59,70
+2021-04-11,"13:10","Round 4"," Marvel Stadium","North Melbourne","Adelaide",68,109
+2021-04-11,"14:40","Round 4"," Optus Stadium","Fremantle","Hawthorn",96,81
+2021-04-11,"15:20","Round 4"," MCG","Melbourne","Geelong",85,60
+2021-04-15,"19:20","Round 5"," Marvel Stadium","St Kilda","Richmond",48,134
+2021-04-16,"18:10","Round 5"," Optus Stadium","West Coast","Collingwood",103,76
+2021-04-17,"13:45","Round 5"," Marvel Stadium","Western Bulldogs","Gold Coast",118,56
+2021-04-17,"16:35","Round 5"," SCG","Sydney","GWS",69,71
+2021-04-17,"19:25","Round 5"," MCG","Carlton","Port Adelaide",68,96
+2021-04-17,"19:25","Round 5"," Gabba","Brisbane","Essendon",102,45
+2021-04-18,"12:40","Round 5"," Adelaide Oval","Adelaide","Fremantle",72,84
+2021-04-18,"15:20","Round 5"," MCG","Hawthorn","Melbourne",54,104
+2021-04-18,"16:40","Round 5"," GMHBA Stadium","Geelong","North Melbourne",77,47
+2021-04-23,"19:20","Round 6"," Manuka Oval","GWS","Western Bulldogs",65,104
+2021-04-24,"13:45","Round 6"," People First Stadium","Gold Coast","Sydney",100,60
+2021-04-24,"13:45","Round 6"," GMHBA Stadium","Geelong","West Coast",136,39
+2021-04-24,"16:35","Round 6"," Marvel Stadium","Carlton","Brisbane",85,103
+2021-04-24,"18:10","Round 6"," Optus Stadium","Fremantle","North Melbourne",99,48
+2021-04-24,"19:25","Round 6"," MCG","Melbourne","Richmond",82,48
+2021-04-25,"12:30","Round 6"," UTAS Stadium","Hawthorn","Adelaide",102,99
+2021-04-25,"15:20","Round 6"," MCG","Collingwood","Essendon",85,109
+2021-04-25,"18:10","Round 6"," Adelaide Oval","Port Adelaide","St Kilda",93,39
+2021-04-30,"19:50","Round 7"," MCG","Richmond","Western Bulldogs",77,55
+2021-05-01,"13:40","Round 7"," Adelaide Oval","Adelaide","GWS",39,106
+2021-05-01,"13:45","Round 7"," MCG","Collingwood","Gold Coast",55,79
+2021-05-01,"16:35","Round 7"," Marvel Stadium","St Kilda","Hawthorn",128,59
+2021-05-01,"19:25","Round 7"," SCG","Sydney","Geelong",90,88
+2021-05-01,"19:25","Round 7"," Gabba","Brisbane","Port Adelaide",93,44
+2021-05-02,"13:10","Round 7"," Ninja Stadium","North Melbourne","Melbourne",73,103
+2021-05-02,"14:40","Round 7"," Optus Stadium","West Coast","Fremantle",132,73
+2021-05-02,"15:20","Round 7"," MCG","Essendon","Carlton",107,123
+2021-05-07,"19:50","Round 8"," MCG","Richmond","Geelong",63,126
+2021-05-08,"13:45","Round 8"," People First Stadium","Gold Coast","St Kilda",54,63
+2021-05-08,"14:10","Round 8"," ENGIE Stadium","GWS","Essendon",107,105
+2021-05-08,"16:35","Round 8"," Marvel Stadium","North Melbourne","Collingwood",76,94
+2021-05-08,"19:10","Round 8"," Adelaide Oval","Port Adelaide","Adelaide",87,38
+2021-05-08,"19:25","Round 8"," MCG","Melbourne","Sydney",67,58
+2021-05-09,"13:10","Round 8"," MCG","Hawthorn","West Coast",60,98
+2021-05-09,"15:20","Round 8"," Marvel Stadium","Western Bulldogs","Carlton",107,91
+2021-05-09,"16:40","Round 8"," Gabba","Brisbane","Fremantle",95,71
+2021-05-14,"19:50","Round 9"," Marvel Stadium","St Kilda","Geelong",47,68
+2021-05-15,"13:45","Round 9"," SCG","Sydney","Collingwood",72,42
+2021-05-15,"14:10","Round 9"," UTAS Stadium","Hawthorn","North Melbourne",80,87
+2021-05-15,"16:35","Round 9"," People First Stadium","Gold Coast","Brisbane",51,124
+2021-05-15,"19:10","Round 9"," Adelaide Oval","Port Adelaide","Western Bulldogs",77,96
+2021-05-15,"19:25","Round 9"," Marvel Stadium","Richmond","GWS",87,83
+2021-05-16,"13:10","Round 9"," Marvel Stadium","Essendon","Fremantle",68,61
+2021-05-16,"14:40","Round 9"," Optus Stadium","West Coast","Adelaide",106,76
+2021-05-16,"15:20","Round 9"," MCG","Melbourne","Carlton",94,68
+2021-05-21,"19:50","Round 10"," Gabba","Brisbane","Richmond",102,74
+2021-05-22,"13:45","Round 10"," MCG","Carlton","Hawthorn",86,63
+2021-05-22,"14:10","Round 10"," GMHBA Stadium","Geelong","Gold Coast",91,57
+2021-05-22,"16:05","Round 10"," Adelaide Oval","Adelaide","Melbourne",96,95
+2021-05-22,"17:40","Round 10"," Optus Stadium","Fremantle","Sydney",86,84
+2021-05-22,"19:25","Round 10"," Marvel Stadium","Western Bulldogs","St Kilda",144,33
+2021-05-23,"13:10","Round 10"," ENGIE Stadium","GWS","West Coast",93,77
+2021-05-23,"15:20","Round 10"," MCG","Collingwood","Port Adelaide",58,59
+2021-05-23,"16:40","Round 10"," Marvel Stadium","Essendon","North Melbourne",141,69
+2021-05-28,"19:50","Round 11"," Marvel Stadium","Western Bulldogs","Melbourne",59,87
+2021-05-29,"13:45","Round 11"," MCG","Collingwood","Geelong",51,61
+2021-05-29,"14:10","Round 11"," Gabba","Brisbane","GWS",129,65
+2021-05-29,"16:35","Round 11"," Marvel Stadium","St Kilda","North Melbourne",88,68
+2021-05-29,"17:40","Round 11"," Optus Stadium","West Coast","Essendon",71,87
+2021-05-29,"19:40","Round 11"," SCG","Gold Coast","Hawthorn",113,76
+2021-05-30,"14:10","Round 11"," ENGIE Stadium","Richmond","Adelaide",111,83
+2021-05-30,"15:20","Round 11"," SCG","Sydney","Carlton",100,78
+2021-05-30,"16:50","Round 11"," Adelaide Oval","Port Adelaide","Fremantle",115,69
+2021-06-04,"19:50","Round 12"," ENGIE Stadium","Melbourne","Brisbane",97,75
+2021-06-05,"13:45","Round 12"," SCG","Sydney","St Kilda",92,83
+2021-06-05,"16:05","Round 12"," Adelaide Oval","Adelaide","Collingwood",73,78
+2021-06-05,"17:40","Round 12"," Optus Stadium","Essendon","Richmond",84,123
+2021-06-06,"15:20","Round 12"," SCG","Carlton","West Coast",73,95
+2021-06-06,"16:40","Round 12"," Optus Stadium","Fremantle","Western Bulldogs",65,93
+2021-06-10,"19:10","Round 13"," Adelaide Oval","Port Adelaide","Geelong",91,112
+2021-06-11,"19:50","Round 13"," SCG","Sydney","Hawthorn",51,89
+2021-06-12,"14:15","Round 13"," Optus Stadium","Fremantle","Gold Coast",76,49
+2021-06-12,"19:25","Round 13"," Cazaly's Stadium","St Kilda","Adelaide",60,66
+2021-06-13,"15:20","Round 13"," Ninja Stadium","North Melbourne","GWS",94,94
+2021-06-13,"17:20","Round 13"," Optus Stadium","West Coast","Richmond",85,81
+2021-06-14,"15:20","Round 13"," SCG","Melbourne","Collingwood",63,80
+2021-06-18,"19:50","Round 14"," GMHBA Stadium","Geelong","Western Bulldogs",83,78
+2021-06-19,"13:45","Round 14"," People First Stadium","Gold Coast","Port Adelaide",31,81
+2021-06-19,"16:35","Round 14"," Ninja Stadium","North Melbourne","Brisbane",45,68
+2021-06-19,"19:25","Round 14"," ENGIE Stadium","GWS","Carlton",102,66
+2021-06-20,"15:20","Round 14"," UTAS Stadium","Hawthorn","Essendon",73,86
+2021-06-24,"19:30","Round 15"," Gabba","Brisbane","Geelong",94,50
+2021-06-25,"19:50","Round 15"," MCG","Richmond","St Kilda",22,62
+2021-06-26,"13:45","Round 15"," Marvel Stadium","Collingwood","Fremantle",79,91
+2021-06-26,"13:45","Round 15"," Ninja Stadium","North Melbourne","Gold Coast",72,63
+2021-06-26,"16:05","Round 15"," Adelaide Oval","Port Adelaide","Sydney",81,71
+2021-06-26,"19:25","Round 15"," MCG","Essendon","Melbourne",57,68
+2021-06-27,"13:10","Round 15"," MCG","GWS","Hawthorn",72,90
+2021-06-27,"13:20","Round 15"," Optus Stadium","West Coast","Western Bulldogs",43,98
+2021-06-27,"16:10","Round 15"," Marvel Stadium","Carlton","Adelaide",83,73
+2021-07-01,"19:20","Round 16"," Marvel Stadium","Gold Coast","Richmond",77,67
+2021-07-02,"19:50","Round 16"," GMHBA Stadium","Geelong","Essendon",98,57
+2021-07-03,"13:45","Round 16"," MCG","Melbourne","GWS",55,64
+2021-07-03,"16:05","Round 16"," Adelaide Oval","Adelaide","Brisbane",59,111
+2021-07-03,"19:40","Round 16"," Marvel Stadium","Hawthorn","Port Adelaide",53,87
+2021-07-03,"19:40","Round 16"," MCG","Fremantle","Carlton",64,80
+2021-07-04,"13:10","Round 16"," GMHBA Stadium","Sydney","West Coast",118,26
+2021-07-04,"15:20","Round 16"," MCG","Collingwood","St Kilda",61,70
+2021-07-04,"16:40","Round 16"," Marvel Stadium","Western Bulldogs","North Melbourne",108,79
+2021-07-08,"19:10","Round 17"," Adelaide Oval","Port Adelaide","Melbourne",55,86
+2021-07-09,"19:50","Round 17"," Marvel Stadium","Essendon","Adelaide",84,21
+2021-07-10,"13:45","Round 17"," UTAS Stadium","Hawthorn","Fremantle",46,108
+2021-07-10,"16:35","Round 17"," MCG","Carlton","Geelong",44,70
+2021-07-10,"19:25","Round 17"," People First Stadium","Brisbane","St Kilda",63,95
+2021-07-11,"12:40","Round 17"," Mars Stadium","GWS","Gold Coast",64,65
+2021-07-11,"15:20","Round 17"," Marvel Stadium","Western Bulldogs","Sydney",60,79
+2021-07-11,"16:10","Round 17"," MCG","Richmond","Collingwood",71,87
+2021-07-12,"17:40","Round 17"," Optus Stadium","West Coast","North Melbourne",60,70
+2021-07-15,"18:10","Round 18"," Optus Stadium","Fremantle","Geelong",31,100
+2021-07-16,"19:50","Round 18"," People First Stadium","Richmond","Brisbane",106,86
+2021-07-17,"16:35","Round 18"," MCG","Melbourne","Hawthorn",79,79
+2021-07-17,"16:35","Round 18"," People First Stadium","Gold Coast","Western Bulldogs",79,90
+2021-07-17,"19:25","Round 18"," Marvel Stadium","St Kilda","Port Adelaide",61,74
+2021-07-18,"12:35","Round 18"," People First Stadium","North Melbourne","Essendon",74,92
+2021-07-18,"15:20","Round 18"," MCG","Collingwood","Carlton",62,91
+2021-07-18,"16:10","Round 18"," Adelaide Oval","Adelaide","West Coast",56,98
+2021-07-18,"18:10","Round 18"," People First Stadium","GWS","Sydney",72,98
+2021-07-23,"19:10","Round 19"," Marvel Stadium","Port Adelaide","Collingwood",97,69
+2021-07-24,"13:45","Round 19"," Marvel Stadium","Carlton","North Melbourne",77,116
+2021-07-24,"14:35","Round 19"," Optus Stadium","West Coast","St Kilda",94,86
+2021-07-24,"15:10","Round 19"," Gabba","Brisbane","Gold Coast",120,71
+2021-07-24,"19:25","Round 19"," MCG","Melbourne","Western Bulldogs",65,85
+2021-07-24,"19:40","Round 19"," Marvel Stadium","Adelaide","Hawthorn",102,83
+2021-07-25,"12:30","Round 19"," People First Stadium","Sydney","Fremantle",98,58
+2021-07-25,"15:20","Round 19"," MCG","Geelong","Richmond",95,57
+2021-07-25,"18:10","Round 19"," People First Stadium","Essendon","GWS",53,66
+2021-07-30,"19:50","Round 20"," Marvel Stadium","St Kilda","Carlton",81,112
+2021-07-31,"12:20","Round 20"," Mars Stadium","Western Bulldogs","Adelaide",105,56
+2021-07-31,"13:15","Round 20"," Ninja Stadium","North Melbourne","Geelong",42,62
+2021-07-31,"16:15","Round 20"," MCG","Collingwood","West Coast",90,45
+2021-08-01,"12:10","Round 20"," Marvel Stadium","Gold Coast","Melbourne",30,128
+2021-08-01,"14:10","Round 20"," UTAS Stadium","Hawthorn","Brisbane",92,80
+2021-08-01,"15:10","Round 20"," Optus Stadium","Fremantle","Richmond",55,51
+2021-08-01,"15:10","Round 20"," MCG","Essendon","Sydney",102,109
+2021-08-01,"18:10","Round 20"," Marvel Stadium","GWS","Port Adelaide",73,100
+2021-08-06,"19:50","Round 21"," GMHBA Stadium","Geelong","GWS",65,84
+2021-08-07,"13:45","Round 21"," Marvel Stadium","Carlton","Gold Coast",57,76
+2021-08-07,"16:35","Round 21"," MCG","Richmond","North Melbourne",89,56
+2021-08-07,"19:10","Round 21"," Adelaide Oval","Adelaide","Port Adelaide",51,55
+2021-08-07,"19:40","Round 21"," Marvel Stadium","St Kilda","Sydney",93,64
+2021-08-08,"14:10","Round 21"," MCG","Hawthorn","Collingwood",97,78
+2021-08-08,"15:10","Round 21"," Optus Stadium","Fremantle","Brisbane",54,118
+2021-08-08,"15:20","Round 21"," Marvel Stadium","Western Bulldogs","Essendon",84,97
+2021-08-09,"18:10","Round 21"," Optus Stadium","West Coast","Melbourne",63,72
+2021-08-13,"19:50","Round 22"," Marvel Stadium","GWS","Richmond",106,67
+2021-08-14,"13:45","Round 22"," UTAS Stadium","Hawthorn","Western Bulldogs",64,37
+2021-08-14,"16:05","Round 22"," Adelaide Oval","Port Adelaide","Carlton",140,45
+2021-08-14,"16:35","Round 22"," GMHBA Stadium","Geelong","St Kilda",85,71
+2021-08-14,"19:25","Round 22"," Gabba","Brisbane","Collingwood",142,57
+2021-08-14,"19:40","Round 22"," Marvel Stadium","North Melbourne","Sydney",77,91
+2021-08-15,"14:10","Round 22"," MCG","Melbourne","Adelaide",104,63
+2021-08-15,"15:10","Round 22"," Optus Stadium","Fremantle","West Coast",79,64
+2021-08-15,"15:20","Round 22"," GMHBA Stadium","Gold Coast","Essendon",30,98
+2021-08-20,"19:50","Round 23"," Marvel Stadium","Western Bulldogs","Port Adelaide",64,66
+2021-08-21,"13:35","Round 23"," MCG","Richmond","Hawthorn",83,83
+2021-08-21,"13:45","Round 23"," Marvel Stadium","Sydney","Gold Coast",136,49
+2021-08-21,"16:35","Round 23"," Gabba","Brisbane","West Coast",125,87
+2021-08-21,"19:25","Round 23"," GMHBA Stadium","Geelong","Melbourne",77,81
+2021-08-21,"19:40","Round 23"," Marvel Stadium","Carlton","GWS",75,89
+2021-08-22,"12:15","Round 23"," Ninja Stadium","St Kilda","Fremantle",107,49
+2021-08-22,"15:20","Round 23"," MCG","Essendon","Collingwood",102,64
+2021-08-22,"16:10","Round 23"," Adelaide Oval","Adelaide","North Melbourne",98,54
+2021-08-27,"19:20","Qualifying Final"," Adelaide Oval","Port Adelaide","Geelong",86,43
+2021-08-28,"15:20","Elimination Final"," UTAS Stadium","Sydney","GWS",73,74
+2021-08-28,"19:00","Qualifying Final"," Adelaide Oval","Melbourne","Brisbane",93,60
+2021-08-29,"15:20","Elimination Final"," UTAS Stadium","Western Bulldogs","Essendon",85,36
+2021-09-03,"17:50","Semi Final"," Optus Stadium","Geelong","GWS",103,68
+2021-09-04,"19:20","Semi Final"," Gabba","Brisbane","Western Bulldogs",78,79
+2021-09-10,"17:50","Preliminary Final"," Optus Stadium","Melbourne","Geelong",125,42
+2021-09-11,"19:10","Preliminary Final"," Adelaide Oval","Port Adelaide","Western Bulldogs",45,116
+2021-09-25,"17:15","Grand Final"," Optus Stadium","Melbourne","Western Bulldogs",140,66

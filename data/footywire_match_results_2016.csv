@@ -1,0 +1,208 @@
+"Date","Time","Round","Venue","Home.Team","Away.Team","Home.Points","Away.Points"
+2016-03-24,"19:20","Round 1"," MCG","Richmond","Carlton",92,83
+2016-03-26,"13:40","Round 1"," MCG","Melbourne","GWS",80,78
+2016-03-26,"15:35","Round 1"," People First Stadium","Gold Coast","Essendon",121,60
+2016-03-26,"19:25","Round 1"," Accor Stadium","Sydney","Collingwood",133,53
+2016-03-26,"19:25","Round 1"," Marvel Stadium","North Melbourne","Adelaide",107,97
+2016-03-27,"13:10","Round 1"," Marvel Stadium","Western Bulldogs","Fremantle",103,38
+2016-03-27,"14:50","Round 1"," Adelaide Oval","Port Adelaide","St Kilda",133,100
+2016-03-27,"16:40","Round 1"," Domain Stadium","West Coast","Brisbane",166,102
+2016-03-28,"15:20","Round 1"," MCG","Geelong","Hawthorn",116,86
+2016-04-01,"19:50","Round 2"," MCG","Collingwood","Richmond",87,86
+2016-04-02,"13:15","Round 2"," Adelaide Oval","Adelaide","Port Adelaide",144,86
+2016-04-02,"14:10","Round 2"," MCG","Essendon","Melbourne",80,67
+2016-04-02,"15:35","Round 2"," Gabba","Brisbane","North Melbourne",83,117
+2016-04-02,"16:40","Round 2"," Domain Stadium","Fremantle","Gold Coast",100,126
+2016-04-02,"19:25","Round 2"," Marvel Stadium","St Kilda","Western Bulldogs",36,93
+2016-04-03,"13:10","Round 2"," Manuka Oval","GWS","Geelong",89,76
+2016-04-03,"15:20","Round 2"," MCG","Hawthorn","West Coast",99,53
+2016-04-03,"16:40","Round 2"," Marvel Stadium","Carlton","Sydney",71,131
+2016-04-08,"19:20","Round 3"," Adelaide Oval","Port Adelaide","Essendon",112,51
+2016-04-09,"13:45","Round 3"," MCG","St Kilda","Collingwood",119,90
+2016-04-09,"14:10","Round 3"," Marvel Stadium","Richmond","Adelaide",92,128
+2016-04-09,"16:35","Round 3"," SCG","Sydney","GWS",93,68
+2016-04-09,"17:40","Round 3"," Domain Stadium","West Coast","Fremantle",92,59
+2016-04-09,"19:25","Round 3"," People First Stadium","Gold Coast","Carlton",95,41
+2016-04-10,"13:10","Round 3"," Ninja Stadium","North Melbourne","Melbourne",136,131
+2016-04-10,"15:20","Round 3"," Marvel Stadium","Western Bulldogs","Hawthorn",90,93
+2016-04-10,"16:40","Round 3"," GMHBA Stadium","Geelong","Brisbane",125,56
+2016-04-15,"18:10","Round 4"," Domain Stadium","West Coast","Richmond",125,57
+2016-04-16,"13:45","Round 4"," MCG","Essendon","Geelong",42,72
+2016-04-16,"14:10","Round 4"," UTAS Stadium","Hawthorn","St Kilda",87,84
+2016-04-16,"16:35","Round 4"," Gabba","Brisbane","Gold Coast",107,94
+2016-04-16,"19:10","Round 4"," Adelaide Oval","Adelaide","Sydney",113,103
+2016-04-16,"19:25","Round 4"," Marvel Stadium","Carlton","Western Bulldogs",49,85
+2016-04-17,"13:10","Round 4"," Manuka Oval","GWS","Port Adelaide",151,65
+2016-04-17,"15:20","Round 4"," MCG","Collingwood","Melbourne",67,102
+2016-04-17,"16:40","Round 4"," Marvel Stadium","North Melbourne","Fremantle",132,101
+2016-04-22,"19:50","Round 5"," MCG","Hawthorn","Adelaide",112,109
+2016-04-23,"13:45","Round 5"," SCG","Sydney","West Coast",88,49
+2016-04-23,"16:35","Round 5"," People First Stadium","Gold Coast","North Melbourne",81,119
+2016-04-23,"19:15","Round 5"," Adelaide Oval","Port Adelaide","Geelong",59,107
+2016-04-23,"19:25","Round 5"," Marvel Stadium","Western Bulldogs","Brisbane",120,67
+2016-04-24,"13:10","Round 5"," Marvel Stadium","St Kilda","GWS",79,126
+2016-04-24,"14:15","Round 5"," Domain Stadium","Fremantle","Carlton",68,72
+2016-04-24,"19:10","Round 5"," MCG","Melbourne","Richmond",129,96
+2016-04-25,"15:20","Round 5"," MCG","Collingwood","Essendon",142,73
+2016-04-29,"19:50","Round 6"," Marvel Stadium","North Melbourne","Western Bulldogs",61,45
+2016-04-30,"13:40","Round 6"," Adelaide Oval","Adelaide","Fremantle",97,64
+2016-04-30,"13:45","Round 6"," Marvel Stadium","Melbourne","St Kilda",96,135
+2016-04-30,"16:35","Round 6"," ENGIE Stadium","GWS","Hawthorn",158,83
+2016-04-30,"19:25","Round 6"," MCG","Richmond","Port Adelaide",59,94
+2016-04-30,"19:25","Round 6"," GMHBA Stadium","Geelong","Gold Coast",168,48
+2016-05-01,"13:10","Round 6"," Gabba","Brisbane","Sydney",94,97
+2016-05-01,"14:40","Round 6"," Domain Stadium","West Coast","Collingwood",124,62
+2016-05-01,"15:20","Round 6"," MCG","Carlton","Essendon",72,57
+2016-05-06,"19:50","Round 7"," MCG","Richmond","Hawthorn",90,136
+2016-05-07,"13:45","Round 7"," MCG","Collingwood","Carlton",84,99
+2016-05-07,"14:10","Round 7"," GMHBA Stadium","Geelong","West Coast",123,79
+2016-05-07,"16:35","Round 7"," Accor Stadium","Sydney","Essendon",135,54
+2016-05-07,"17:10","Round 7"," People First Stadium","Gold Coast","Melbourne",87,160
+2016-05-07,"18:10","Round 7"," Domain Stadium","Fremantle","GWS",77,95
+2016-05-07,"19:40","Round 7"," Marvel Stadium","Western Bulldogs","Adelaide",123,108
+2016-05-08,"15:20","Round 7"," Marvel Stadium","St Kilda","North Melbourne",75,82
+2016-05-08,"16:10","Round 7"," Adelaide Oval","Port Adelaide","Brisbane",136,59
+2016-05-13,"19:20","Round 8"," Adelaide Oval","Adelaide","Geelong",72,98
+2016-05-14,"13:45","Round 8"," Marvel Stadium","Essendon","North Melbourne",60,74
+2016-05-14,"14:10","Round 8"," UTAS Stadium","Hawthorn","Fremantle",116,75
+2016-05-14,"16:35","Round 8"," ENGIE Stadium","GWS","Gold Coast",149,58
+2016-05-14,"19:25","Round 8"," Gabba","Brisbane","Collingwood",65,143
+2016-05-14,"19:25","Round 8"," MCG","Richmond","Sydney",101,100
+2016-05-15,"13:10","Round 8"," Marvel Stadium","Carlton","Port Adelaide",93,91
+2016-05-15,"14:40","Round 8"," Domain Stadium","West Coast","St Kilda",132,29
+2016-05-15,"15:20","Round 8"," MCG","Melbourne","Western Bulldogs",82,114
+2016-05-20,"19:50","Round 9"," MCG","Hawthorn","Sydney",55,69
+2016-05-21,"13:45","Round 9"," MCG","Collingwood","Geelong",104,80
+2016-05-21,"14:10","Round 9"," People First Stadium","Gold Coast","Adelaide",74,149
+2016-05-21,"16:05","Round 9"," Adelaide Oval","Port Adelaide","West Coast",86,94
+2016-05-21,"17:40","Round 9"," Domain Stadium","Fremantle","Richmond",45,83
+2016-05-21,"19:25","Round 9"," Marvel Stadium","North Melbourne","Carlton",113,46
+2016-05-22,"13:10","Round 9"," MCG","Melbourne","Brisbane",131,68
+2016-05-22,"15:20","Round 9"," ENGIE Stadium","GWS","Western Bulldogs",98,73
+2016-05-22,"16:40","Round 9"," Marvel Stadium","St Kilda","Essendon",109,63
+2016-05-27,"19:50","Round 10"," SCG","Sydney","North Melbourne",91,65
+2016-05-28,"13:40","Round 10"," TIO Traeger Park","Melbourne","Port Adelaide",76,121
+2016-05-28,"13:45","Round 10"," Gabba","Brisbane","Hawthorn",87,135
+2016-05-28,"16:35","Round 10"," Marvel Stadium","St Kilda","Fremantle",101,67
+2016-05-28,"19:10","Round 10"," Adelaide Oval","Adelaide","GWS",107,85
+2016-05-28,"19:25","Round 10"," MCG","Essendon","Richmond",67,105
+2016-05-29,"13:10","Round 10"," Marvel Stadium","Carlton","Geelong",104,85
+2016-05-29,"14:40","Round 10"," Domain Stadium","West Coast","Gold Coast",132,55
+2016-05-29,"15:20","Round 10"," MCG","Collingwood","Western Bulldogs",53,74
+2016-06-03,"19:50","Round 11"," Ninja Stadium","North Melbourne","Richmond",124,54
+2016-06-04,"13:45","Round 11"," MCG","Hawthorn","Melbourne",82,64
+2016-06-04,"14:10","Round 11"," Marvel Stadium","Carlton","Brisbane",102,64
+2016-06-04,"16:35","Round 11"," GMHBA Stadium","Geelong","GWS",98,88
+2016-06-04,"17:40","Round 11"," Domain Stadium","Fremantle","Essendon",126,47
+2016-06-04,"19:25","Round 11"," People First Stadium","Gold Coast","Sydney",41,79
+2016-06-05,"13:10","Round 11"," MCG","Collingwood","Port Adelaide",58,125
+2016-06-05,"15:20","Round 11"," Marvel Stadium","Western Bulldogs","West Coast",83,75
+2016-06-05,"16:10","Round 11"," Adelaide Oval","Adelaide","St Kilda",133,45
+2016-06-10,"19:50","Round 12"," Marvel Stadium","Essendon","Hawthorn",43,151
+2016-06-11,"13:10","Round 12"," Adelaide Oval","Port Adelaide","Western Bulldogs",97,100
+2016-06-11,"16:35","Round 12"," Gabba","Brisbane","Fremantle",64,147
+2016-06-11,"17:40","Round 12"," Domain Stadium","West Coast","Adelaide",76,105
+2016-06-11,"19:25","Round 12"," Marvel Stadium","Geelong","North Melbourne",105,74
+2016-06-12,"13:10","Round 12"," Marvel Stadium","St Kilda","Carlton",110,78
+2016-06-12,"15:20","Round 12"," MCG","Richmond","Gold Coast",114,97
+2016-06-12,"16:40","Round 12"," ENGIE Stadium","GWS","Sydney",105,63
+2016-06-13,"15:20","Round 12"," MCG","Melbourne","Collingwood",104,58
+2016-06-17,"19:50","Round 13"," Marvel Stadium","North Melbourne","Hawthorn",84,93
+2016-06-18,"13:40","Round 13"," Gabba","Brisbane","West Coast",82,131
+2016-06-18,"14:35","Round 13"," Domain Stadium","Fremantle","Port Adelaide",86,69
+2016-06-18,"19:25","Round 13"," Marvel Stadium","Western Bulldogs","Geelong",43,100
+2016-06-19,"13:10","Round 13"," SCG","Sydney","Melbourne",86,31
+2016-06-19,"16:40","Round 13"," Marvel Stadium","Essendon","GWS",90,117
+2016-06-23,"19:20","Round 14"," Adelaide Oval","Adelaide","North Melbourne",100,67
+2016-06-24,"19:50","Round 14"," MCG","Collingwood","Fremantle",85,37
+2016-06-25,"13:40","Round 14"," MCG","Richmond","Brisbane",117,75
+2016-06-25,"16:35","Round 14"," ENGIE Stadium","GWS","Carlton",127,65
+2016-06-25,"19:25","Round 14"," Marvel Stadium","St Kilda","Geelong",93,90
+2016-06-26,"15:20","Round 14"," UTAS Stadium","Hawthorn","Gold Coast",86,60
+2016-06-30,"18:10","Round 15"," Domain Stadium","West Coast","Essendon",130,52
+2016-07-01,"19:20","Round 15"," Adelaide Oval","Port Adelaide","Richmond",94,56
+2016-07-02,"13:40","Round 15"," People First Stadium","Gold Coast","St Kilda",108,68
+2016-07-02,"16:35","Round 15"," SCG","Sydney","Western Bulldogs",79,83
+2016-07-02,"19:25","Round 15"," MCG","Carlton","Collingwood",45,57
+2016-07-03,"15:20","Round 15"," MCG","Melbourne","Adelaide",98,120
+2016-07-07,"19:20","Round 16"," Adelaide Oval","Port Adelaide","Hawthorn",79,101
+2016-07-08,"19:50","Round 16"," GMHBA Stadium","Geelong","Sydney",60,98
+2016-07-09,"13:40","Round 16"," ENGIE Stadium","GWS","Collingwood",93,125
+2016-07-09,"16:35","Round 16"," People First Stadium","Gold Coast","Brisbane",139,113
+2016-07-09,"19:10","Round 16"," TIO Stadium","Melbourne","Fremantle",87,55
+2016-07-09,"19:25","Round 16"," Marvel Stadium","Western Bulldogs","Richmond",85,75
+2016-07-10,"13:10","Round 16"," MCG","Carlton","Adelaide",47,107
+2016-07-10,"13:20","Round 16"," Domain Stadium","West Coast","North Melbourne",104,72
+2016-07-10,"16:40","Round 16"," Marvel Stadium","Essendon","St Kilda",98,109
+2016-07-14,"19:20","Round 17"," SCG","Sydney","Hawthorn",70,75
+2016-07-15,"18:10","Round 17"," Domain Stadium","Fremantle","Geelong",61,78
+2016-07-16,"13:40","Round 17"," MCG","Richmond","Essendon",102,83
+2016-07-16,"16:35","Round 17"," Marvel Stadium","North Melbourne","Port Adelaide",77,105
+2016-07-16,"19:10","Round 17"," Adelaide Oval","Adelaide","Collingwood",97,69
+2016-07-16,"19:25","Round 17"," Cazaly's Stadium","Western Bulldogs","Gold Coast",107,59
+2016-07-17,"13:10","Round 17"," MCG","Carlton","West Coast",75,82
+2016-07-17,"15:20","Round 17"," Marvel Stadium","St Kilda","Melbourne",110,74
+2016-07-17,"16:40","Round 17"," Gabba","Brisbane","GWS",67,146
+2016-07-22,"19:50","Round 18"," Marvel Stadium","Collingwood","North Melbourne",84,124
+2016-07-23,"13:45","Round 18"," SCG","Sydney","Carlton",74,68
+2016-07-23,"14:10","Round 18"," People First Stadium","Gold Coast","Fremantle",105,81
+2016-07-23,"14:35","Round 18"," Domain Stadium","West Coast","Melbourne",66,60
+2016-07-23,"19:25","Round 18"," GMHBA Stadium","Geelong","Adelaide",85,55
+2016-07-23,"19:25","Round 18"," Marvel Stadium","Western Bulldogs","St Kilda",60,75
+2016-07-24,"13:10","Round 18"," Marvel Stadium","Essendon","Brisbane",91,128
+2016-07-24,"15:20","Round 18"," MCG","Hawthorn","Richmond",114,44
+2016-07-24,"16:10","Round 18"," Adelaide Oval","Port Adelaide","GWS",60,79
+2016-07-29,"19:50","Round 19"," GMHBA Stadium","Geelong","Western Bulldogs",103,78
+2016-07-30,"13:45","Round 19"," Manuka Oval","GWS","Richmond",111,23
+2016-07-30,"14:10","Round 19"," UTAS Stadium","Hawthorn","Carlton",74,55
+2016-07-30,"16:35","Round 19"," MCG","Collingwood","West Coast",91,72
+2016-07-30,"19:25","Round 19"," Marvel Stadium","North Melbourne","St Kilda",85,62
+2016-07-30,"19:25","Round 19"," Gabba","Brisbane","Port Adelaide",79,173
+2016-07-31,"13:10","Round 19"," MCG","Melbourne","Gold Coast",66,64
+2016-07-31,"13:20","Round 19"," Domain Stadium","Fremantle","Sydney",47,137
+2016-07-31,"16:10","Round 19"," Adelaide Oval","Adelaide","Essendon",143,61
+2016-08-05,"19:50","Round 20"," MCG","Richmond","Collingwood",92,77
+2016-08-06,"13:45","Round 20"," SCG","Sydney","Port Adelaide",100,33
+2016-08-06,"14:10","Round 20"," MCG","Melbourne","Hawthorn",110,81
+2016-08-06,"16:35","Round 20"," People First Stadium","Gold Coast","GWS",84,92
+2016-08-06,"19:10","Round 20"," Adelaide Oval","Adelaide","Brisbane",177,39
+2016-08-06,"19:25","Round 20"," Marvel Stadium","Western Bulldogs","North Melbourne",61,47
+2016-08-07,"13:10","Round 20"," MCG","Carlton","St Kilda",51,122
+2016-08-07,"14:40","Round 20"," Domain Stadium","Fremantle","West Coast",64,110
+2016-08-07,"15:20","Round 20"," Marvel Stadium","Geelong","Essendon",100,34
+2016-08-12,"19:50","Round 21"," Marvel Stadium","Western Bulldogs","Collingwood",95,92
+2016-08-13,"13:45","Round 21"," Gabba","Brisbane","Carlton",99,95
+2016-08-13,"14:10","Round 21"," MCG","Hawthorn","North Melbourne",96,57
+2016-08-13,"16:35","Round 21"," ENGIE Stadium","GWS","West Coast",96,97
+2016-08-13,"19:10","Round 21"," Adelaide Oval","Port Adelaide","Melbourne",54,94
+2016-08-13,"19:25","Round 21"," Marvel Stadium","St Kilda","Sydney",76,146
+2016-08-14,"13:10","Round 21"," Marvel Stadium","Essendon","Gold Coast",75,69
+2016-08-14,"14:40","Round 21"," Domain Stadium","Fremantle","Adelaide",70,142
+2016-08-14,"15:20","Round 21"," MCG","Richmond","Geelong",78,82
+2016-08-19,"18:10","Round 22"," Domain Stadium","West Coast","Hawthorn",92,67
+2016-08-20,"13:45","Round 22"," Ninja Stadium","North Melbourne","Sydney",76,85
+2016-08-20,"14:10","Round 22"," MCG","Richmond","St Kilda",46,55
+2016-08-20,"16:35","Round 22"," ENGIE Stadium","GWS","Fremantle",129,37
+2016-08-20,"19:10","Round 22"," Adelaide Oval","Port Adelaide","Adelaide",94,109
+2016-08-20,"19:25","Round 22"," Marvel Stadium","Collingwood","Gold Coast",118,47
+2016-08-21,"13:10","Round 22"," MCG","Carlton","Melbourne",78,58
+2016-08-21,"15:20","Round 22"," Gabba","Brisbane","Geelong",69,129
+2016-08-21,"16:40","Round 22"," Marvel Stadium","Essendon","Western Bulldogs",53,93
+2016-08-26,"19:40","Round 23"," Adelaide Oval","Adelaide","West Coast",71,100
+2016-08-27,"13:45","Round 23"," GMHBA Stadium","Geelong","Melbourne",155,44
+2016-08-27,"14:10","Round 23"," MCG","Essendon","Carlton",103,79
+2016-08-27,"16:35","Round 23"," SCG","Sydney","Richmond",164,51
+2016-08-27,"19:25","Round 23"," People First Stadium","Gold Coast","Port Adelaide",66,89
+2016-08-27,"19:25","Round 23"," Marvel Stadium","North Melbourne","GWS",63,100
+2016-08-28,"13:10","Round 23"," Marvel Stadium","St Kilda","Brisbane",161,103
+2016-08-28,"14:40","Round 23"," Domain Stadium","Fremantle","Western Bulldogs",69,49
+2016-08-28,"15:20","Round 23"," MCG","Hawthorn","Collingwood",112,111
+2016-09-08,"18:10","Elimination Final"," Domain Stadium","West Coast","Western Bulldogs",52,99
+2016-09-09,"19:50","Qualifying Final"," MCG","Geelong","Hawthorn",85,83
+2016-09-10,"15:20","Qualifying Final"," Accor Stadium","Sydney","GWS",55,91
+2016-09-10,"19:10","Elimination Final"," Adelaide Oval","Adelaide","North Melbourne",141,79
+2016-09-16,"19:50","Semi Final"," MCG","Hawthorn","Western Bulldogs",84,107
+2016-09-17,"19:25","Semi Final"," SCG","Sydney","Adelaide",118,82
+2016-09-23,"19:50","Preliminary Final"," MCG","Geelong","Sydney",60,97
+2016-09-24,"19:15","Preliminary Final"," ENGIE Stadium","GWS","Western Bulldogs",83,89
+2016-10-01,"14:30","Grand Final"," MCG","Sydney","Western Bulldogs",67,89

@@ -1,0 +1,217 @@
+"Date","Time","Round","Venue","Home.Team","Away.Team","Home.Points","Away.Points"
+2023-03-16,"19:20","Round 1"," MCG","Richmond","Carlton",58,58
+2023-03-17,"19:40","Round 1"," MCG","Geelong","Collingwood",103,125
+2023-03-18,"13:45","Round 1"," Marvel Stadium","North Melbourne","West Coast",87,82
+2023-03-18,"16:05","Round 1"," Adelaide Oval","Port Adelaide","Brisbane",126,72
+2023-03-18,"19:00","Round 1"," People First Stadium","Gold Coast","Sydney",61,110
+2023-03-18,"19:25","Round 1"," MCG","Melbourne","Western Bulldogs",115,65
+2023-03-19,"13:10","Round 1"," ENGIE Stadium","GWS","Adelaide",106,90
+2023-03-19,"15:20","Round 1"," MCG","Hawthorn","Essendon",65,124
+2023-03-19,"16:40","Round 1"," Marvel Stadium","St Kilda","Fremantle",67,52
+2023-03-23,"19:20","Round 2"," MCG","Carlton","Geelong",90,82
+2023-03-24,"18:55","Round 2"," Gabba","Brisbane","Melbourne",93,82
+2023-03-25,"13:45","Round 2"," MCG","Collingwood","Port Adelaide",135,64
+2023-03-25,"16:05","Round 2"," Adelaide Oval","Adelaide","Richmond",76,108
+2023-03-25,"16:30","Round 2"," Optus Stadium","Fremantle","North Melbourne",72,73
+2023-03-25,"19:25","Round 2"," Marvel Stadium","Western Bulldogs","St Kilda",41,92
+2023-03-26,"13:10","Round 2"," SCG","Sydney","Hawthorn",118,37
+2023-03-26,"15:20","Round 2"," Optus Stadium","West Coast","GWS",100,81
+2023-03-26,"15:20","Round 2"," Marvel Stadium","Essendon","Gold Coast",108,80
+2023-03-30,"19:20","Round 3"," Marvel Stadium","Western Bulldogs","Brisbane",67,53
+2023-03-31,"19:50","Round 3"," MCG","Collingwood","Richmond",63,49
+2023-04-01,"13:45","Round 3"," UTAS Stadium","Hawthorn","North Melbourne",80,61
+2023-04-01,"16:35","Round 3"," ENGIE Stadium","GWS","Carlton",64,74
+2023-04-01,"19:00","Round 3"," Adelaide Oval","Port Adelaide","Adelaide",86,117
+2023-04-01,"19:25","Round 3"," MCG","St Kilda","Essendon",92,74
+2023-04-02,"14:10","Round 3"," People First Stadium","Gold Coast","Geelong",73,54
+2023-04-02,"15:20","Round 3"," Optus Stadium","Fremantle","West Coast",108,67
+2023-04-02,"15:20","Round 3"," MCG","Melbourne","Sydney",134,84
+2023-04-06,"19:35","Round 4"," Gabba","Brisbane","Collingwood",116,83
+2023-04-07,"16:20","Round 4"," Marvel Stadium","North Melbourne","Carlton",84,107
+2023-04-08,"13:15","Round 4"," Adelaide Oval","Adelaide","Fremantle",111,72
+2023-04-08,"16:35","Round 4"," MCG","Richmond","Western Bulldogs",84,89
+2023-04-08,"19:30","Round 4"," Marvel Stadium","St Kilda","Gold Coast",113,60
+2023-04-08,"19:30","Round 4"," SCG","Sydney","Port Adelaide",64,66
+2023-04-09,"14:10","Round 4"," Marvel Stadium","Essendon","GWS",88,75
+2023-04-09,"15:20","Round 4"," Optus Stadium","West Coast","Melbourne",63,126
+2023-04-10,"15:20","Round 4"," MCG","Geelong","Hawthorn",127,45
+2023-04-13,"19:10","Round 5"," Adelaide Oval","Adelaide","Carlton",118,62
+2023-04-14,"16:40","Round 5"," Norwood Oval","Fremantle","Gold Coast",100,90
+2023-04-14,"19:40","Round 5"," Adelaide Oval","Richmond","Sydney",78,122
+2023-04-15,"12:40","Round 5"," Adelaide Hills","Brisbane","North Melbourne",152,77
+2023-04-15,"15:40","Round 5"," Adelaide Oval","Essendon","Melbourne",104,77
+2023-04-15,"19:20","Round 5"," Adelaide Oval","Port Adelaide","Western Bulldogs",70,56
+2023-04-16,"12:40","Round 5"," Adelaide Oval","Geelong","West Coast",136,89
+2023-04-16,"14:50","Round 5"," Norwood Oval","GWS","Hawthorn",77,75
+2023-04-16,"16:20","Round 5"," Adelaide Oval","Collingwood","St Kilda",70,64
+2023-04-21,"18:10","Round 6"," Optus Stadium","Fremantle","Western Bulldogs",69,118
+2023-04-22,"13:15","Round 6"," Adelaide Oval","Port Adelaide","West Coast",109,69
+2023-04-22,"16:35","Round 6"," Manuka Oval","GWS","Brisbane",87,108
+2023-04-22,"19:25","Round 6"," GMHBA Stadium","Geelong","Sydney",130,37
+2023-04-23,"13:10","Round 6"," UTAS Stadium","Hawthorn","Adelaide",76,79
+2023-04-23,"15:20","Round 6"," Marvel Stadium","Carlton","St Kilda",60,82
+2023-04-23,"16:40","Round 6"," People First Stadium","Gold Coast","North Melbourne",97,54
+2023-04-24,"19:25","Round 6"," MCG","Melbourne","Richmond",96,78
+2023-04-25,"15:20","Round 6"," MCG","Collingwood","Essendon",90,77
+2023-04-28,"19:50","Round 7"," Marvel Stadium","St Kilda","Port Adelaide",76,83
+2023-04-29,"13:45","Round 7"," Gabba","Brisbane","Fremantle",115,67
+2023-04-29,"14:10","Round 7"," SCG","Sydney","GWS",106,107
+2023-04-29,"16:35","Round 7"," Marvel Stadium","Western Bulldogs","Hawthorn",94,65
+2023-04-29,"17:30","Round 7"," Optus Stadium","West Coast","Carlton",44,152
+2023-04-29,"19:25","Round 7"," MCG","Melbourne","North Melbourne",139,49
+2023-04-30,"13:10","Round 7"," MCG","Essendon","Geelong",104,132
+2023-04-30,"15:20","Round 7"," Marvel Stadium","Richmond","Gold Coast",48,72
+2023-04-30,"16:10","Round 7"," Adelaide Oval","Adelaide","Collingwood",58,59
+2023-05-05,"19:50","Round 8"," Marvel Stadium","Carlton","Brisbane",74,100
+2023-05-06,"13:45","Round 8"," MCG","Richmond","West Coast",104,58
+2023-05-06,"14:10","Round 8"," GMHBA Stadium","Geelong","Adelaide",98,72
+2023-05-06,"16:35","Round 8"," People First Stadium","Gold Coast","Melbourne",85,90
+2023-05-06,"17:30","Round 8"," Optus Stadium","Fremantle","Hawthorn",117,48
+2023-05-06,"19:30","Round 8"," Manuka Oval","GWS","Western Bulldogs",71,86
+2023-05-07,"12:40","Round 8"," Adelaide Oval","Port Adelaide","Essendon",92,87
+2023-05-07,"15:20","Round 8"," MCG","Collingwood","Sydney",77,48
+2023-05-07,"16:40","Round 8"," Marvel Stadium","North Melbourne","St Kilda",34,64
+2023-05-12,"18:40","Round 9"," Optus Stadium","West Coast","Gold Coast",43,113
+2023-05-12,"19:20","Round 9"," MCG","Richmond","Geelong",102,78
+2023-05-13,"13:45","Round 9"," SCG","Sydney","Fremantle",86,103
+2023-05-13,"14:10","Round 9"," Ninja Stadium","North Melbourne","Port Adelaide",65,135
+2023-05-13,"16:35","Round 9"," MCG","Hawthorn","Melbourne",49,103
+2023-05-13,"19:25","Round 9"," Gabba","Brisbane","Essendon",87,45
+2023-05-13,"19:30","Round 9"," Marvel Stadium","Carlton","Western Bulldogs",59,79
+2023-05-14,"12:40","Round 9"," Adelaide Oval","Adelaide","St Kilda",121,69
+2023-05-14,"16:40","Round 9"," MCG","Collingwood","GWS",120,55
+2023-05-19,"19:20","Round 10"," Adelaide Oval","Port Adelaide","Melbourne",80,76
+2023-05-20,"13:45","Round 10"," Marvel Stadium","North Melbourne","Sydney",90,93
+2023-05-20,"14:10","Round 10"," Mars Stadium","Western Bulldogs","Adelaide",85,40
+2023-05-20,"14:35","Round 10"," Optus Stadium","Fremantle","Geelong",106,77
+2023-05-20,"19:30","Round 10"," Gabba","Brisbane","Gold Coast",107,64
+2023-05-20,"19:40","Round 10"," MCG","Essendon","Richmond",71,70
+2023-05-21,"13:10","Round 10"," UTAS Stadium","Hawthorn","West Coast",142,26
+2023-05-21,"15:20","Round 10"," MCG","Carlton","Collingwood",57,85
+2023-05-21,"16:40","Round 10"," ENGIE Stadium","GWS","St Kilda",80,92
+2023-05-26,"19:50","Round 11"," SCG","Sydney","Carlton",77,51
+2023-05-27,"13:45","Round 11"," Marvel Stadium","St Kilda","Hawthorn",78,88
+2023-05-27,"14:10","Round 11"," MCG","Melbourne","Fremantle",72,79
+2023-05-27,"16:35","Round 11"," GMHBA Stadium","Geelong","GWS",74,81
+2023-05-27,"17:40","Round 11"," Optus Stadium","West Coast","Essendon",46,96
+2023-05-27,"18:55","Round 11"," TIO Stadium","Gold Coast","Western Bulldogs",84,77
+2023-05-28,"13:10","Round 11"," MCG","Richmond","Port Adelaide",67,77
+2023-05-28,"15:20","Round 11"," Marvel Stadium","Collingwood","North Melbourne",105,70
+2023-05-28,"16:10","Round 11"," Adelaide Oval","Adelaide","Brisbane",95,78
+2023-06-02,"19:50","Round 12"," MCG","Melbourne","Carlton",61,44
+2023-06-03,"13:15","Round 12"," Adelaide Oval","Port Adelaide","Hawthorn",151,96
+2023-06-03,"14:35","Round 12"," Optus Stadium","West Coast","Collingwood",57,120
+2023-06-03,"19:00","Round 12"," TIO Stadium","Gold Coast","Adelaide",112,87
+2023-06-03,"19:25","Round 12"," Marvel Stadium","Western Bulldogs","Geelong",75,97
+2023-06-04,"13:10","Round 12"," ENGIE Stadium","GWS","Richmond",104,110
+2023-06-04,"16:40","Round 12"," Marvel Stadium","Essendon","North Melbourne",105,99
+2023-06-08,"19:10","Round 13"," SCG","Sydney","St Kilda",66,80
+2023-06-09,"19:50","Round 13"," Marvel Stadium","Western Bulldogs","Port Adelaide",85,107
+2023-06-10,"13:45","Round 13"," MCG","Hawthorn","Brisbane",98,73
+2023-06-10,"16:05","Round 13"," Adelaide Oval","Adelaide","West Coast",174,52
+2023-06-10,"17:25","Round 13"," Optus Stadium","Fremantle","Richmond",70,85
+2023-06-11,"15:20","Round 13"," Ninja Stadium","North Melbourne","GWS",75,103
+2023-06-11,"19:15","Round 13"," MCG","Carlton","Essendon",52,86
+2023-06-12,"15:20","Round 13"," MCG","Melbourne","Collingwood",66,62
+2023-06-15,"19:10","Round 14"," Adelaide Oval","Port Adelaide","Geelong",110,72
+2023-06-16,"19:50","Round 14"," Gabba","Brisbane","Sydney",97,81
+2023-06-17,"16:35","Round 14"," ENGIE Stadium","GWS","Fremantle",106,36
+2023-06-17,"19:25","Round 14"," MCG","Richmond","St Kilda",90,70
+2023-06-18,"13:10","Round 14"," MCG","Carlton","Gold Coast",120,61
+2023-06-18,"16:40","Round 14"," Marvel Stadium","North Melbourne","Western Bulldogs",84,105
+2023-06-22,"19:20","Round 15"," GMHBA Stadium","Geelong","Melbourne",78,63
+2023-06-23,"19:50","Round 15"," Marvel Stadium","St Kilda","Brisbane",56,84
+2023-06-24,"16:35","Round 15"," SCG","Sydney","West Coast",205,34
+2023-06-24,"17:25","Round 15"," Optus Stadium","Fremantle","Essendon",93,61
+2023-06-25,"13:10","Round 15"," MCG","Collingwood","Adelaide",82,80
+2023-06-25,"16:40","Round 15"," People First Stadium","Gold Coast","Hawthorn",101,34
+2023-06-29,"19:20","Round 16"," Gabba","Brisbane","Richmond",134,53
+2023-06-30,"19:50","Round 16"," SCG","Sydney","Geelong",54,54
+2023-07-01,"13:15","Round 16"," Adelaide Oval","Adelaide","North Melbourne",138,72
+2023-07-01,"13:45","Round 16"," Marvel Stadium","Western Bulldogs","Fremantle",102,73
+2023-07-01,"16:35","Round 16"," People First Stadium","Gold Coast","Collingwood",42,120
+2023-07-01,"19:25","Round 16"," MCG","Essendon","Port Adelaide",74,78
+2023-07-02,"13:10","Round 16"," MCG","Hawthorn","Carlton",52,112
+2023-07-02,"14:40","Round 16"," Optus Stadium","West Coast","St Kilda",77,85
+2023-07-02,"14:50","Round 16"," TIO Traeger Park","Melbourne","GWS",45,47
+2023-07-06,"19:20","Round 17"," MCG","Richmond","Sydney",88,75
+2023-07-07,"19:50","Round 17"," Marvel Stadium","Western Bulldogs","Collingwood",77,89
+2023-07-08,"13:45","Round 17"," Gabba","Brisbane","West Coast",116,35
+2023-07-08,"16:35","Round 17"," ENGIE Stadium","GWS","Hawthorn",85,72
+2023-07-08,"19:10","Round 17"," Adelaide Oval","Port Adelaide","Gold Coast",106,73
+2023-07-08,"19:25","Round 17"," Marvel Stadium","St Kilda","Melbourne",58,79
+2023-07-09,"13:10","Round 17"," GMHBA Stadium","Geelong","North Melbourne",125,63
+2023-07-09,"14:40","Round 17"," Optus Stadium","Fremantle","Carlton",45,98
+2023-07-09,"15:20","Round 17"," Marvel Stadium","Essendon","Adelaide",115,97
+2023-07-13,"19:20","Round 18"," SCG","Sydney","Western Bulldogs",78,76
+2023-07-14,"19:50","Round 18"," MCG","Melbourne","Brisbane",105,104
+2023-07-15,"13:45","Round 18"," MCG","Collingwood","Fremantle",113,67
+2023-07-15,"14:10","Round 18"," People First Stadium","Gold Coast","St Kilda",77,51
+2023-07-15,"16:35","Round 18"," Marvel Stadium","Carlton","Port Adelaide",122,72
+2023-07-15,"19:10","Round 18"," Adelaide Oval","Adelaide","GWS",57,71
+2023-07-15,"19:25","Round 18"," GMHBA Stadium","Geelong","Essendon",122,45
+2023-07-16,"13:10","Round 18"," Marvel Stadium","North Melbourne","Hawthorn",40,88
+2023-07-16,"14:40","Round 18"," Optus Stadium","West Coast","Richmond",60,98
+2023-07-21,"19:50","Round 19"," Marvel Stadium","Essendon","Western Bulldogs",49,90
+2023-07-22,"13:45","Round 19"," MCG","Richmond","Hawthorn",96,95
+2023-07-22,"14:10","Round 19"," Marvel Stadium","Carlton","West Coast",140,69
+2023-07-22,"16:35","Round 19"," Gabba","Brisbane","Geelong",64,53
+2023-07-22,"17:40","Round 19"," Optus Stadium","Fremantle","Sydney",76,105
+2023-07-22,"19:10","Round 19"," Adelaide Oval","Port Adelaide","Collingwood",83,85
+2023-07-23,"13:10","Round 19"," Manuka Oval","GWS","Gold Coast",103,63
+2023-07-23,"15:20","Round 19"," MCG","Melbourne","Adelaide",97,93
+2023-07-23,"16:40","Round 19"," Marvel Stadium","St Kilda","North Melbourne",69,61
+2023-07-28,"19:50","Round 20"," MCG","Collingwood","Carlton",76,93
+2023-07-29,"13:45","Round 20"," GMHBA Stadium","Geelong","Fremantle",64,71
+2023-07-29,"13:45","Round 20"," Mars Stadium","Western Bulldogs","GWS",73,78
+2023-07-29,"16:35","Round 20"," People First Stadium","Gold Coast","Brisbane",96,55
+2023-07-29,"19:10","Round 20"," Adelaide Oval","Adelaide","Port Adelaide",112,65
+2023-07-29,"19:25","Round 20"," Marvel Stadium","Essendon","Sydney",99,101
+2023-07-30,"13:10","Round 20"," Marvel Stadium","Hawthorn","St Kilda",93,122
+2023-07-30,"14:40","Round 20"," Optus Stadium","West Coast","North Melbourne",72,67
+2023-07-30,"15:20","Round 20"," MCG","Richmond","Melbourne",98,130
+2023-08-04,"19:50","Round 21"," Marvel Stadium","Western Bulldogs","Richmond",126,71
+2023-08-05,"13:40","Round 21"," Adelaide Oval","Adelaide","Gold Coast",89,61
+2023-08-05,"13:45","Round 21"," Marvel Stadium","Essendon","West Coast",73,72
+2023-08-05,"16:35","Round 21"," MCG","Hawthorn","Collingwood",105,73
+2023-08-05,"19:25","Round 21"," GMHBA Stadium","Geelong","Port Adelaide",97,85
+2023-08-05,"19:30","Round 21"," ENGIE Stadium","GWS","Sydney",85,96
+2023-08-06,"13:10","Round 21"," Ninja Stadium","North Melbourne","Melbourne",71,103
+2023-08-06,"14:40","Round 21"," Optus Stadium","Fremantle","Brisbane",74,77
+2023-08-06,"15:20","Round 21"," Marvel Stadium","St Kilda","Carlton",54,73
+2023-08-11,"19:50","Round 22"," MCG","Collingwood","Geelong",109,101
+2023-08-12,"13:45","Round 22"," SCG","Sydney","Gold Coast",114,90
+2023-08-12,"13:45","Round 22"," Marvel Stadium","North Melbourne","Essendon",77,86
+2023-08-12,"16:35","Round 22"," Gabba","Brisbane","Adelaide",99,93
+2023-08-12,"18:10","Round 22"," Optus Stadium","West Coast","Fremantle",33,134
+2023-08-12,"19:30","Round 22"," MCG","Carlton","Melbourne",60,56
+2023-08-13,"13:10","Round 22"," UTAS Stadium","Hawthorn","Western Bulldogs",67,64
+2023-08-13,"15:20","Round 22"," Marvel Stadium","St Kilda","Richmond",93,57
+2023-08-13,"16:10","Round 22"," Adelaide Oval","Port Adelaide","GWS",136,85
+2023-08-18,"19:50","Round 23"," Marvel Stadium","Collingwood","Brisbane",100,124
+2023-08-19,"13:45","Round 23"," MCG","Richmond","North Melbourne",101,72
+2023-08-19,"14:10","Round 23"," People First Stadium","Gold Coast","Carlton",87,91
+2023-08-19,"16:35","Round 23"," ENGIE Stadium","GWS","Essendon",162,36
+2023-08-19,"19:10","Round 23"," Adelaide Oval","Adelaide","Sydney",73,74
+2023-08-19,"19:25","Round 23"," Marvel Stadium","St Kilda","Geelong",88,55
+2023-08-20,"13:10","Round 23"," Marvel Stadium","Western Bulldogs","West Coast",85,92
+2023-08-20,"14:40","Round 23"," Optus Stadium","Fremantle","Port Adelaide",58,74
+2023-08-20,"15:20","Round 23"," MCG","Melbourne","Hawthorn",87,60
+2023-08-25,"19:50","Round 24"," MCG","Essendon","Collingwood",31,101
+2023-08-26,"13:45","Round 24"," Ninja Stadium","North Melbourne","Gold Coast",132,97
+2023-08-26,"13:45","Round 24"," MCG","Hawthorn","Fremantle",56,93
+2023-08-26,"16:35","Round 24"," Gabba","Brisbane","St Kilda",72,60
+2023-08-26,"18:10","Round 24"," Optus Stadium","West Coast","Adelaide",78,123
+2023-08-26,"19:25","Round 24"," GMHBA Stadium","Geelong","Western Bulldogs",79,104
+2023-08-27,"12:00","Round 24"," Adelaide Oval","Port Adelaide","Richmond",94,63
+2023-08-27,"15:20","Round 24"," SCG","Sydney","Melbourne",56,77
+2023-08-27,"18:10","Round 24"," Marvel Stadium","Carlton","GWS",73,105
+2023-09-07,"19:20","Qualifying Final"," MCG","Collingwood","Melbourne",60,53
+2023-09-08,"19:50","Elimination Final"," MCG","Carlton","Sydney",74,68
+2023-09-09,"15:20","Elimination Final"," MCG","St Kilda","GWS",77,101
+2023-09-09,"19:25","Qualifying Final"," Gabba","Brisbane","Port Adelaide",123,75
+2023-09-15,"19:50","Semi Final"," MCG","Melbourne","Carlton",71,73
+2023-09-16,"19:10","Semi Final"," Adelaide Oval","Port Adelaide","GWS",70,93
+2023-09-22,"19:50","Preliminary Final"," MCG","Collingwood","GWS",58,57
+2023-09-23,"17:15","Preliminary Final"," Gabba","Brisbane","Carlton",79,63
+2023-09-30,"14:30","Grand Final"," MCG","Collingwood","Brisbane",90,86

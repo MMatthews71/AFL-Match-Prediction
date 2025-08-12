@@ -1,0 +1,163 @@
+"Date","Time","Round","Venue","Home.Team","Away.Team","Home.Points","Away.Points"
+2020-03-19,"19:40","Round 1"," MCG","Richmond","Carlton",105,81
+2020-03-20,"19:50","Round 1"," Marvel Stadium","Western Bulldogs","Collingwood",34,86
+2020-03-21,"14:10","Round 1"," Marvel Stadium","Essendon","Fremantle",63,57
+2020-03-21,"16:35","Round 1"," Adelaide Oval","Adelaide","Sydney",71,74
+2020-03-21,"18:40","Round 1"," People First Stadium","Gold Coast","Port Adelaide",29,76
+2020-03-21,"19:40","Round 1"," ENGIE Stadium","GWS","Geelong",105,73
+2020-03-22,"13:05","Round 1"," Marvel Stadium","North Melbourne","St Kilda",56,54
+2020-03-22,"15:35","Round 1"," MCG","Hawthorn","Brisbane",90,62
+2020-03-22,"15:40","Round 1"," Optus Stadium","West Coast","Melbourne",78,51
+2020-06-11,"19:40","Round 2"," MCG","Collingwood","Richmond",36,36
+2020-06-12,"19:50","Round 2"," GMHBA Stadium","Geelong","Hawthorn",108,47
+2020-06-13,"13:45","Round 2"," Gabba","Brisbane","Fremantle",81,69
+2020-06-13,"16:35","Round 2"," Marvel Stadium","Carlton","Melbourne",53,54
+2020-06-13,"19:10","Round 2"," Adelaide Oval","Port Adelaide","Adelaide",110,35
+2020-06-13,"19:40","Round 2"," People First Stadium","Gold Coast","West Coast",90,46
+2020-06-14,"13:05","Round 2"," ENGIE Stadium","GWS","North Melbourne",60,80
+2020-06-14,"15:35","Round 2"," SCG","Sydney","Essendon",73,79
+2020-06-14,"18:05","Round 2"," Marvel Stadium","St Kilda","Western Bulldogs",88,49
+2020-06-18,"19:40","Round 3"," MCG","Richmond","Hawthorn",39,71
+2020-06-19,"19:50","Round 3"," Marvel Stadium","Western Bulldogs","GWS",57,33
+2020-06-20,"13:45","Round 3"," Marvel Stadium","North Melbourne","Sydney",60,71
+2020-06-20,"16:35","Round 3"," MCG","Collingwood","St Kilda",81,37
+2020-06-20,"19:40","Round 3"," GMHBA Stadium","Geelong","Carlton",77,79
+2020-06-20,"19:40","Round 3"," Gabba","Brisbane","West Coast",74,44
+2020-06-21,"15:05","Round 3"," People First Stadium","Gold Coast","Adelaide",82,29
+2020-06-21,"20:10","Round 3"," People First Stadium","Fremantle","Port Adelaide",41,70
+2020-06-25,"19:40","Round 4"," SCG","Sydney","Western Bulldogs",39,67
+2020-06-26,"19:50","Round 4"," ENGIE Stadium","GWS","Collingwood",66,64
+2020-06-27,"13:45","Round 4"," People First Stadium","Port Adelaide","West Coast",89,41
+2020-06-27,"16:35","Round 4"," Marvel Stadium","St Kilda","Richmond",93,67
+2020-06-27,"19:40","Round 4"," People First Stadium","Gold Coast","Fremantle",64,51
+2020-06-27,"19:40","Round 4"," MCG","Essendon","Carlton",51,52
+2020-06-28,"13:05","Round 4"," Gabba","Brisbane","Adelaide",83,46
+2020-06-28,"15:35","Round 4"," MCG","Melbourne","Geelong",44,47
+2020-06-28,"18:10","Round 4"," Marvel Stadium","Hawthorn","North Melbourne",58,54
+2020-07-02,"19:40","Round 5"," Marvel Stadium","Carlton","St Kilda",55,73
+2020-07-03,"19:50","Round 5"," MCG","Collingwood","Essendon",48,63
+2020-07-04,"13:45","Round 5"," People First Stadium","West Coast","Sydney",77,43
+2020-07-04,"16:35","Round 5"," GMHBA Stadium","Geelong","Gold Coast",89,52
+2020-07-04,"19:40","Round 5"," Gabba","Brisbane","Port Adelaide",85,48
+2020-07-04,"19:40","Round 5"," Marvel Stadium","Western Bulldogs","North Melbourne",87,38
+2020-07-05,"13:05","Round 5"," People First Stadium","Adelaide","Fremantle",34,54
+2020-07-05,"15:35","Round 5"," MCG","Melbourne","Richmond",52,79
+2020-07-05,"18:10","Round 5"," ENGIE Stadium","GWS","Hawthorn",83,49
+2020-07-09,"19:40","Round 6"," SCG","Geelong","Brisbane",73,46
+2020-07-10,"19:50","Round 6"," ENGIE Stadium","Collingwood","Hawthorn",59,27
+2020-07-11,"12:35","Round 6"," People First Stadium","Fremantle","St Kilda",79,73
+2020-07-11,"15:05","Round 6"," Gabba","West Coast","Adelaide",67,34
+2020-07-11,"18:05","Round 6"," ENGIE Stadium","Melbourne","Gold Coast",80,63
+2020-07-11,"19:40","Round 6"," People First Stadium","Essendon","North Melbourne",67,53
+2020-07-12,"13:05","Round 6"," People First Stadium","Port Adelaide","GWS",63,46
+2020-07-12,"15:35","Round 6"," Gabba","Richmond","Sydney",34,26
+2020-07-12,"18:45","Round 6"," People First Stadium","Carlton","Western Bulldogs",103,51
+2020-07-16,"18:10","Round 7"," Optus Stadium","Geelong","Collingwood",35,57
+2020-07-17,"19:50","Round 7"," People First Stadium","Essendon","Western Bulldogs",51,93
+2020-07-18,"13:45","Round 7"," ENGIE Stadium","GWS","Brisbane",68,88
+2020-07-18,"16:35","Round 7"," SCG","Sydney","Gold Coast",60,92
+2020-07-18,"19:40","Round 7"," People First Stadium","Richmond","North Melbourne",77,23
+2020-07-19,"13:05","Round 7"," Gabba","Carlton","Port Adelaide",61,64
+2020-07-19,"15:35","Round 7"," ENGIE Stadium","Hawthorn","Melbourne",48,91
+2020-07-19,"16:35","Round 7"," Optus Stadium","Fremantle","West Coast",32,62
+2020-07-20,"19:10","Round 7"," Adelaide Oval","Adelaide","St Kilda",55,78
+2020-07-23,"19:40","Round 8"," People First Stadium","Gold Coast","Western Bulldogs",46,51
+2020-07-24,"19:50","Round 8"," ENGIE Stadium","GWS","Richmond",62,50
+2020-07-25,"13:05","Round 8"," Gabba","North Melbourne","Carlton",57,64
+2020-07-25,"15:35","Round 8"," SCG","Sydney","Hawthorn",60,53
+2020-07-25,"19:10","Round 8"," Adelaide Oval","Port Adelaide","St Kilda",44,73
+2020-07-26,"12:35","Round 8"," Adelaide Oval","Adelaide","Essendon",59,62
+2020-07-26,"13:35","Round 8"," Optus Stadium","West Coast","Collingwood",111,45
+2020-07-26,"18:10","Round 8"," People First Stadium","Melbourne","Brisbane",49,53
+2020-07-27,"18:10","Round 8"," Optus Stadium","Fremantle","Geelong",16,48
+2020-07-29,"19:10","Round 9"," People First Stadium","Western Bulldogs","Richmond",49,90
+2020-07-30,"19:50","Round 9"," Gabba","Melbourne","Port Adelaide",32,83
+2020-07-31,"15:40","Round 9"," Optus Stadium","Carlton","Hawthorn",58,89
+2020-07-31,"20:10","Round 9"," People First Stadium","Essendon","Brisbane",28,91
+2020-08-01,"14:35","Round 9"," People First Stadium","North Melbourne","Adelaide",119,50
+2020-08-01,"17:10","Round 9"," Gabba","St Kilda","Sydney",101,48
+2020-08-01,"18:10","Round 9"," Optus Stadium","West Coast","Geelong",73,64
+2020-08-02,"15:35","Round 9"," People First Stadium","Gold Coast","GWS",35,61
+2020-08-02,"16:10","Round 9"," Optus Stadium","Fremantle","Collingwood",61,49
+2020-08-03,"18:40","Round 10"," Adelaide Oval","Port Adelaide","Western Bulldogs",55,42
+2020-08-04,"19:10","Round 10"," People First Stadium","Richmond","Brisbane",82,41
+2020-08-05,"17:40","Round 10"," Gabba","Geelong","North Melbourne",90,57
+2020-08-05,"19:40","Round 10"," Adelaide Oval","Adelaide","Melbourne",37,88
+2020-08-06,"17:40","Round 10"," Gabba","Collingwood","Sydney",50,41
+2020-08-06,"20:10","Round 10"," People First Stadium","Gold Coast","St Kilda",74,78
+2020-08-07,"19:50","Round 10"," People First Stadium","Essendon","GWS",55,59
+2020-08-08,"16:05","Round 11"," Adelaide Oval","Port Adelaide","Richmond",93,72
+2020-08-08,"19:40","Round 11"," Gabba","Brisbane","Western Bulldogs",96,72
+2020-08-09,"13:35","Round 11"," Optus Stadium","West Coast","Carlton",72,50
+2020-08-09,"17:40","Round 11"," Adelaide Oval","Melbourne","North Melbourne",92,35
+2020-08-10,"18:10","Round 11"," Gabba","St Kilda","Geelong",34,93
+2020-08-10,"18:40","Round 11"," Optus Stadium","Fremantle","Hawthorn",48,32
+2020-08-11,"18:05","Round 11"," Adelaide Oval","Adelaide","Collingwood",38,62
+2020-08-12,"19:10","Round 11"," People First Stadium","Gold Coast","Essendon",73,73
+2020-08-13,"18:10","Round 12"," Optus Stadium","Sydney","GWS",66,25
+2020-08-14,"19:50","Round 12"," Gabba","Geelong","Port Adelaide",91,31
+2020-08-15,"14:35","Round 12"," Ninja Stadium","North Melbourne","Brisbane",52,53
+2020-08-15,"17:10","Round 12"," Gabba","Melbourne","Collingwood",100,44
+2020-08-15,"18:10","Round 12"," Optus Stadium","Fremantle","Carlton",36,40
+2020-08-16,"13:05","Round 12"," People First Stadium","Western Bulldogs","Adelaide",111,54
+2020-08-16,"15:35","Round 12"," Gabba","St Kilda","Essendon",68,33
+2020-08-16,"16:10","Round 12"," Optus Stadium","West Coast","Hawthorn",81,49
+2020-08-17,"19:10","Round 12"," Gabba","Richmond","Gold Coast",53,32
+2020-08-21,"19:20","Round 13"," TIO Stadium","Gold Coast","Carlton",27,60
+2020-08-22,"13:45","Round 13"," People First Stadium","Western Bulldogs","Melbourne",80,52
+2020-08-22,"16:05","Round 13"," Adelaide Oval","Port Adelaide","Hawthorn",68,58
+2020-08-22,"18:10","Round 13"," Optus Stadium","Fremantle","Sydney",50,19
+2020-08-22,"19:15","Round 13"," TIO Stadium","Essendon","Richmond",61,73
+2020-08-23,"12:35","Round 13"," Adelaide Oval","Adelaide","Geelong",37,65
+2020-08-23,"15:35","Round 13"," Gabba","Brisbane","St Kilda",50,48
+2020-08-23,"16:10","Round 13"," Optus Stadium","West Coast","GWS",61,49
+2020-08-24,"19:10","Round 13"," Gabba","Collingwood","North Melbourne",65,35
+2020-08-27,"16:10","Round 14"," Adelaide Oval","Hawthorn","Essendon",71,87
+2020-08-27,"19:10","Round 14"," People First Stadium","Richmond","West Coast",88,61
+2020-08-28,"19:50","Round 14"," People First Stadium","Western Bulldogs","Geelong",61,72
+2020-08-29,"13:15","Round 14"," Adelaide Oval","Port Adelaide","Sydney",73,47
+2020-08-29,"14:35","Round 14"," Optus Stadium","Fremantle","GWS",53,91
+2020-08-29,"19:10","Round 14"," TIO Traeger Park","Melbourne","St Kilda",52,49
+2020-08-30,"15:35","Round 14"," Gabba","Carlton","Collingwood",48,72
+2020-08-30,"18:10","Round 14"," People First Stadium","Gold Coast","North Melbourne",91,28
+2020-09-01,"17:10","Round 15"," Adelaide Oval","Hawthorn","Adelaide",48,83
+2020-09-01,"20:10","Round 15"," Gabba","West Coast","Essendon",60,45
+2020-09-02,"19:10","Round 15"," People First Stadium","Richmond","Fremantle",56,29
+2020-09-03,"16:40","Round 15"," Cazaly's Stadium","Sydney","Melbourne",67,46
+2020-09-03,"19:10","Round 15"," People First Stadium","GWS","Carlton",48,39
+2020-09-04,"19:50","Round 15"," Gabba","Brisbane","Collingwood",42,34
+2020-09-05,"19:40","Round 16"," People First Stadium","North Melbourne","Port Adelaide",42,78
+2020-09-06,"13:05","Round 16"," People First Stadium","St Kilda","Hawthorn",80,66
+2020-09-06,"15:35","Round 16"," Gabba","Geelong","Essendon",108,42
+2020-09-06,"18:10","Round 16"," People First Stadium","Western Bulldogs","West Coast",49,47
+2020-09-07,"19:10","Round 16"," Cazaly's Stadium","Melbourne","Fremantle",33,47
+2020-09-08,"17:10","Round 16"," Adelaide Oval","Adelaide","GWS",59,47
+2020-09-08,"20:10","Round 16"," People First Stadium","Carlton","Sydney",57,52
+2020-09-09,"19:10","Round 16"," Gabba","Brisbane","Gold Coast",88,43
+2020-09-10,"19:10","Round 17"," Gabba","St Kilda","West Coast",50,65
+2020-09-11,"19:50","Round 17"," People First Stadium","Geelong","Richmond",31,57
+2020-09-12,"13:45","Round 17"," People First Stadium","North Melbourne","Fremantle",35,99
+2020-09-12,"16:05","Round 17"," Adelaide Oval","Port Adelaide","Essendon",79,29
+2020-09-12,"19:40","Round 17"," Gabba","GWS","Melbourne",74,79
+2020-09-13,"13:05","Round 17"," People First Stadium","Carlton","Adelaide",56,72
+2020-09-13,"15:05","Round 17"," Adelaide Oval","Hawthorn","Western Bulldogs",40,76
+2020-09-13,"18:10","Round 17"," Cazaly's Stadium","Sydney","Brisbane",41,73
+2020-09-14,"19:10","Round 17"," Gabba","Collingwood","Gold Coast",68,46
+2020-09-17,"19:10","Round 18"," People First Stadium","North Melbourne","West Coast",34,49
+2020-09-18,"19:50","Round 18"," Gabba","St Kilda","GWS",82,30
+2020-09-19,"14:10","Round 18"," People First Stadium","Essendon","Melbourne",49,68
+2020-09-19,"16:40","Round 18"," Adelaide Oval","Adelaide","Richmond",33,77
+2020-09-19,"19:40","Round 18"," Gabba","Brisbane","Carlton",78,61
+2020-09-20,"12:35","Round 18"," Adelaide Oval","Hawthorn","Gold Coast",108,57
+2020-09-20,"15:35","Round 18"," People First Stadium","Sydney","Geelong",63,69
+2020-09-20,"18:10","Round 18"," Cazaly's Stadium","Fremantle","Western Bulldogs",44,74
+2020-09-21,"19:15","Round 18"," Gabba","Collingwood","Port Adelaide",45,61
+2020-10-01,"19:10","Qualifying Final"," Adelaide Oval","Port Adelaide","Geelong",58,42
+2020-10-02,"19:50","Qualifying Final"," Gabba","Brisbane","Richmond",69,54
+2020-10-03,"16:40","Elimination Final"," Gabba","St Kilda","Western Bulldogs",67,64
+2020-10-03,"18:10","Elimination Final"," Optus Stadium","West Coast","Collingwood",75,76
+2020-10-09,"18:50","Semi Final"," People First Stadium","Richmond","St Kilda",80,49
+2020-10-10,"18:40","Semi Final"," Gabba","Geelong","Collingwood",100,32
+2020-10-16,"19:20","Preliminary Final"," Adelaide Oval","Port Adelaide","Richmond",40,46
+2020-10-17,"18:40","Preliminary Final"," Gabba","Brisbane","Geelong",42,82
+2020-10-24,"18:30","Grand Final"," Gabba","Richmond","Geelong",81,50
