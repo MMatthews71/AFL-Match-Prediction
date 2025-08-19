@@ -55,9 +55,10 @@ View Results: Predictions, including probabilities, are saved in results/ and di
 Example Output
 For Round 24, 2025, the model predicts:
 
-Essendon vs. Carlton: Carlton (Away), 73.95% probability.
-Collingwood vs. Melbourne: Collingwood (Home), 71.89% probability.
-Brisbane vs. Hawthorn: Brisbane (Home), 56.96% probability.
+Home.Team	Away.Team	PredictedWinner	PredictedProb_HomeWin	PredictedProb_AwayWin
+Essendon	Carlton	Away	0.260494894975764	0.739505105024236
+Collingwood	Melbourne	Home	0.7188697565698282	0.2811302434301717
+Port Adelaide	Gold Coast	Away	0.1999727398535202	0.8000272601464797
 
 See results/round24_predictions.csv for full output.
 
