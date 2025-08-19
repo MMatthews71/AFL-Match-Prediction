@@ -1,108 +1,70 @@
 # AFL Match Prediction
 
-**Project Overview**
+## Overview
+This project develops a machine learning pipeline to predict Australian Football League (AFL) match outcomes using historical data from 2015 to 2025. By leveraging player and match statistics scraped from Footywire via the fitzRoy package, the project employs advanced feature engineering and ensemble modeling to forecast match winners with high accuracy. The goal is to create an interpretable and dynamic model for predicting future rounds, enabling applications in fan engagement and strategic analysis.
 
-This project builds a machine learning pipeline to predict Australian Football League (AFL) match outcomes using historical data from 2015 to 2025. Utilizing player and match statistics scraped from Footywire via the fitzRoy package, the project employs advanced feature engineering and an ensemble modeling approach to forecast match winners with high accuracy. The goal is to deliver an interpretable and dynamic model capable of predicting future rounds.
+# Dataset
+The dataset includes transaction-level data from Footywire, covering player statistics (e.g., goals, disposals, contested possessions) and match results (e.g., scores, venues, dates) across 10+ seasons. This rich dataset, comprising over 2,200 matches, provides detailed insights into team and player performance trends.
 
-**Key Features**
+# Methodology
 
-Data Source: Comprehensive dataset spanning 10+ seasons of AFL player statistics (e.g., goals, disposals, contested possessions) and match results (e.g., scores, venues), scraped using fitzRoy.
+Data Cleaning and Preprocessing: Handling missing values, normalizing venue names, and converting rounds to integers.
 
-Feature Engineering: Custom features including team Elo ratings, venue-specific win rates, recent form (last 5 games), and rest days to capture team and match dynamics.
+Feature Engineering: Creating metrics like team Elo ratings, venue win rates, recent form (last 5 games), and rest days.
 
-Modeling: A Voting Ensemble combining tuned Logistic Regression, Random Forest, Gradient Boosting, and SVM models, balanced with SMOTE and optimized via GridSearchCV. Achieved 7/9 correct predictions for Round 21, 2025.
+Modeling: Implementing a Voting Ensemble with tuned Logistic Regression, Random Forest, Gradient Boosting, and SVM, balanced using SMOTE and optimized via RandomSearchCV.
 
-Dynamic Forecasting: Automated pipeline for preprocessing new data, retraining the model, and generating predictions for upcoming rounds.
-Evaluation: Comprehensive metrics including accuracy, F1-score, ROC-AUC, and confusion matrices, with threshold optimization for improved performance.
+Evaluation: Assessing model performance with accuracy, F1-score, ROC-AUC, and confusion matrices, including threshold optimization.
 
-**Repository Structure**
+Dynamic Forecasting: Automating data preprocessing and model retraining for new rounds, with predictions for matches like Round 24, 2025.
 
-data/: Directory for raw CSV files containing player stats and match results (2015–2025).
+# Results
+The model achieved 7/9 correct predictions for Round 21, 2025, demonstrating strong performance, particularly in decisive matchups. Key findings include:
 
-notebooks/01-afl-match-prediction.ipynb: Main Jupyter notebook covering exploratory data analysis, preprocessing, modeling, evaluation, and predictions.
-scripts/FitzRoy.R: R script for data scraping.
+High-Confidence Predictions: Matches with clear favorites (e.g., Gold Coast vs. Essendon, 85.36% home win probability) were accurately predicted.
 
-results/: Output files, including predictions for Round 24, 2025.
+Close Match Challenges: Misclassifications occurred in tightly contested games, indicating areas for refinement in handling balanced matchups.
 
-**Prerequisites**
+Actionable Insights: Features like Elo ratings and venue win rates were critical drivers, as revealed by SHAP analysis, offering strategic insights for teams and analysts.
 
-Python 3.13.5+
-Required libraries: pandas, numpy, scikit-learn, shap, statsmodels, matplotlib, seaborn, imblearn, fitzRoy
+These results support targeted applications, such as informing betting strategies or enhancing fan experiences with predictive tools.
 
-**Installation**
+# Technologies Used
 
-Clone the repository: 
+Python (pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn, imblearn)
 
-git clone https://github.com/yourusername/afl-match-prediction.git
+R (fitzRoy for data scraping)
 
+Jupyter Notebook
+
+# How to Use
+
+Clone the repository:git clone https://github.com/yourusername/afl-match-prediction.git
 cd afl-match-prediction
 
-Install dependencies:pip install -r requirements.txt
+
+Install required libraries:pip install -r requirements.txt
+
+Or manually:pip install pandas numpy scikit-learn shap statsmodels matplotlib seaborn imblearn fitzRoy
 
 
-Ensure raw data files (footywire_player_stats_*.csv, footywire_match_results_*.csv) are placed in the data/ directory.
+Place raw data files (footywire_player_stats_*.csv, footywire_match_results_*.csv) in the data/ directory or scrape new data using scripts/FitzRoy.R.
 
-**Usage**
+Run the Jupyter notebook (notebooks/01-afl-match-prediction.ipynb) to execute the pipeline.
 
-Prepare Data: Place historical and new data files in data/, or use fitzRoy to scrape updated AFL statistics from Footywire.
+Update the round24_games_2025 fixture list for new predictions and explore results in results/.
 
-Run the Notebook: Open notebooks/01-afl-match-prediction.ipynb in Jupyter to execute the full pipeline, from data loading to predictions.
+# Example Output
 
-Predict New Rounds: Update the round24_games_2025 fixture list in the notebook with new match details (e.g., teams, venue, date) to generate predictions.
-
-View Results: Predictions, including probabilities, are saved in results/ and displayed in the notebook (e.g., round24_predictions).
-
-Example Output
 For Round 24, 2025, the model predicts:
 
-Home.Team |	Away.Team |	PredictedWinner |	PredictedProb_HomeWin |	PredictedProb_AwayWin
+Essendon vs. Carlton: Carlton (Away), 73.95% probability.
+Collingwood vs. Melbourne: Collingwood (Home), 71.89% probability.
+Brisbane vs. Hawthorn: Brisbane (Home), 56.96% probability.
 
-Essendon | Carlton | Away | 0.260494894975764 | 0.739505105024236
+Full results are available in results/round24_predictions.csv.
 
-Collingwood | Melbourne | Home | 0.7188697565698282 | 0.2811302434301717
+# Contact
+For questions or collaboration, please reach out via matthewsmax44@gmail.com or open an issue in this repository.
 
-Port Adelaide | Gold Coast | Away	| 0.1999727398535202 | 0.8000272601464797
-
-
-See results/round24_predictions.csv for full output.
-
-**Future Improvements**
-
-Enhanced Data: Integrate real-time data sources (e.g. weather conditions) via APIs.
-
-Draw Prediction: Extend the model to explicitly predict draws (~1-2% of AFL games) using multi-class classification.
-
-Deployment: Develop a Streamlit web app for interactive predictions and visualizations.
-
-Validation: Compare predictions against betting market odds to assess real-world performance.
-
-Feature Expansion: Incorporate advanced player metrics (e.g., pressure acts, player fatigue).
-
-**Limitations**
-
-Draws are currently treated as away losses, which may affect predictions in close matches.
-External factors like weather, or crowd effects are not included due to data availability.
-Model performance may vary in finals due to higher stakes and different team dynamics.
-
-**Contributing**
-
-Contributions are welcome! 
-To contribute:
-
-Fork the repository.
-
-Create a feature branch (git checkout -b feature/new-feature).
-
-Commit changes (git commit -m 'Add new feature').
-
-Push to the branch (git push origin feature/new-feature).
-
-Open a pull request.
-
-Please ensure code follows PEP 8 style guidelines and includes comments for clarity.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-Contact
-For questions, bug reports, or suggestions, please open an issue on GitHub or contact [matthewsmax44@gmail.com].
-
-Last updated: August 19, 2025
+This project showcases the power of machine learning in sports analytics, delivering a robust and interpretable solution for AFL match prediction with potential for real-world impact.
