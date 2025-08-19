@@ -9,6 +9,7 @@ This project builds a machine learning pipeline to predict Australian Football L
 Data Source: Comprehensive dataset spanning 10+ seasons of AFL player statistics (e.g., goals, disposals, contested possessions) and match results (e.g., scores, venues), scraped using fitzRoy.
 
 Feature Engineering: Custom features including team Elo ratings, venue-specific win rates, recent form (last 5 games), and rest days to capture team and match dynamics.
+
 Modeling: A Voting Ensemble combining tuned Logistic Regression, Random Forest, Gradient Boosting, and SVM models, balanced with SMOTE and optimized via GridSearchCV. Achieved 7/9 correct predictions for Round 21, 2025.
 
 Dynamic Forecasting: Automated pipeline for preprocessing new data, retraining the model, and generating predictions for upcoming rounds.
@@ -79,12 +80,18 @@ External factors like weather, or crowd effects are not included due to data ava
 Model performance may vary in finals due to higher stakes and different team dynamics.
 
 **Contributing**
-Contributions are welcome! To contribute:
+
+Contributions are welcome! 
+To contribute:
 
 Fork the repository.
+
 Create a feature branch (git checkout -b feature/new-feature).
+
 Commit changes (git commit -m 'Add new feature').
+
 Push to the branch (git push origin feature/new-feature).
+
 Open a pull request.
 
 Please ensure code follows PEP 8 style guidelines and includes comments for clarity.
